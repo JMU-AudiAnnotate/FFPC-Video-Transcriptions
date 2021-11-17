@@ -1,0 +1,2192 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/transcription.json",
+  "type": "AnnotationPage",
+  "label": "Transcription",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/transcription-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "--more succinctly, but basically, you know, just I mean I'll let you know when 30 minutes are up and if there's something I think you didn't ask or whatever I'll throw that in but, forget that I'm here. After all that, forget that I'm here. So I need to be able to know when you're ready.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "20.504327,38.220065"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/transcription-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "So say my name into that camera?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "39.942428,42.731017"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/transcription-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "To that camera right there",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "42.238913,43.305138"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/transcription-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Uh-huh. To that camera. And then Major you talk to the same camera. Not at the same time.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "42.731017,46.421795"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/transcription-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Simultaneously, let's go. Ready, set-- ",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "46.175743,49.046349"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/transcription-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Alright, I think I can-- alright.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "47.323986,49.046349"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/transcription-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Should we shut the door behind you?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "49.046349,50.440643"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/transcription-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Oh yeah.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "50.440643,51.424851"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/transcription-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Yeah, that'd be good, that'd be good.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "51.014765,52.901163"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/transcription-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Basically a normal voice, and all that?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "54.295457,55.935803"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/transcription-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Yeah. Right.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "55.935803,58.478339"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/transcription-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Talk in a very high pitched voice",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "57.494132,59.052461"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/transcription-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Okay. So Major Jackson... can you tell me?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "59.052461,64.629637"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/transcription-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "And we're basically setting-- shooting you from mid-chest up.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "65.285776,68.81252"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/transcription-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Okay good.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "68.402434,69.71471"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/transcription-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "So if you want to use your hands a lot, just make sure they're high.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "69.71471,73.405489"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/transcription-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Okay.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "73.405489,74.143645"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/transcription-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Don't pick your nose.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "75.537939,76.358112"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/transcription-annotation-18.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Alright",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "76.768199,77.916441"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/transcription-annotation-19.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "You ready? Alright. Keith, just--",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "78.490562,82.50941"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/transcription-annotation-20.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "I'm Keith D. Leonard. L-e-o-n-a-r-d.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "82.837479,86.364224"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/transcription-annotation-21.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Major Jackson. M-a-j-o-r, J-a-c-k-s-o-n.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "87.676501,93.253677"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/transcription-annotation-22.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "So Major, you read a poem from your <i>Urban Renewal</i> series yesterday. Could you say a bit more about that poem, where it came from? What do you think of it now?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "94.565954,102.60365"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/transcription-annotation-23.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "The poem initially started out as a poem in which I wanted to write definitively to the question: How did I get my name? And in this process of writing about this poem-- in fact, Major appears three times in my family tree--",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "102.685668,123.02596"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/transcription-annotation-24.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "but in the process of writing about this poem, a memory resurfaced of a substitute teacher who, on the very first, or her very first day was attempting to write, to say the names of my peers, my classmates, and she stumbled over a few of those names. She came back the next day, and renamed all of us after French painters.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "123.02596,149.51755"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/transcription-annotation-25.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "And even back then I understood what that was about, that kind of erasure and almost even colonizing, creating individuals, you know. So the poem became less about me talking about my family, and how African Americans have often named their children these kind of strong names from either history or the Bible.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "149.51755,178.797728"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/transcription-annotation-26.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "And more about how we grow into our names, and particularly how Black children grow into their names and how they fulfill the prophecy behind their name, namehood, naming.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "178.797728,195.529258"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/transcription-annotation-27.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Have you fulfilled the prophecy behind your namehood?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "195.529258,198.071795"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/transcription-annotation-28.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Major? When I die, let me know. I don't know.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "198.071795,202.828799"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/transcription-annotation-29.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "There's a moment in the poem, as I recall, where the speaker of the poem corrects the teacher, one of the names that she had given to the students. Could you explain what that is about?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "202.828799,212.178772"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/transcription-annotation-30.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Sure. You know, the suggestion, you know, that these-- how can I put this-- the students themselves were made to feel, I would think, inferior by her presence and by this naming.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "212.178772,238.342292"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/transcription-annotation-31.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "And, in fact, her mistake was that she thought one of the painters was French, but in fact he was Austrian. And actually, I knew that painter from going to the Philadelphia Museum of Art where my aunt was a security guard, and like summer Sundays, when it was very, very hot, she would let us in free. And there's a striking painting by Eduard Charlemont of this Moorish prince or chief, King-- very, very striking figure.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "238.342292,274.019821"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/transcription-annotation-32.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "And I remember it because it was one of very few images of Black people in the Philadelphia Museum of Art at that time. So, that correction did not happen. I didn't approach her, but in the world of the poem that happened, yeah. Where the speaker corrects the teacher.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "274.019821,296.000459"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/transcription-annotation-33.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "So there's a sense of reclaiming at some point, in some way, what the teacher had taken away.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "296.000459,302.97193"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/transcription-annotation-34.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Yeah. Yeah, I would agree. I would agree with that. That's right, that's right. In the world of the poem, though. You know what I mean, right? I mean, like reality and-- art and life is, of course, different. But hopefully, you know, the poem becomes instructive. And the, well, historically, it's the historical document to some extent. I think it's still honors, more than anything, it honors the importance of naming and particularly the tradition of naming in the Afro-American community.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "303.382016,338.89551"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/transcription-annotation-35.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "So you're creating worlds within the poem. What kind of worlds do you like to create? <i>Urban Renewal</i> suggests all kinds of possibilities. You can start there and just tell us about some of the ways in which you think of creating worlds in poems.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "338.89551,352.100296"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/transcription-annotation-36.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Right. Well my first book, <i>Leaving Saturn</i>, was very much about capturing a particular moment in urban Philadelphia during a particular time. And I think that's the power of art, is it makes sacred what might be ephemeral in someone else's mind, kind of stops and freezes it and makes it vibrant throughout the course of time, throughout history, you know.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "352.100296,378.263817"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/transcription-annotation-37.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "I mean we fall away but art stays, you know, the poem will forever be read, or a painting will forever be seen, or music will forever be heard, you know. So that the world that you speak of was one in which I was very, very conscious of. But as I'm growing as an artist, that world is expanding beyond my origins, and it's pretty exciting. Exciting as a human being who likes to take in landscapes.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "378.263817,412.218982"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/transcription-annotation-38.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "What kinds of directions is your creativity going in? Do you have some trends or directions that you're pursuing right now?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "412.711086,419.682557"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/transcription-annotation-39.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Well, I think always my work seeks to honor African Americans first. Decent human beings second. The spaces in which we live and breathe and occupy.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "419.682557,441.417143"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/transcription-annotation-40.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "But I think also, you know, what's special about being at this particular conference and seeing other writers is that you realize that you are in the tradition of spirit work and language and transformation. And it just reminds you how important this undertaking, the undertaking of writing poetry, is.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "441.417143,467.826716"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/transcription-annotation-41.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "So my work is less-- although less social than some of my peers and others, I think the impact on poetry, the impact of poetry period, I think, is long-standing and, and hopefully, you know, that's the ultimate, the ultimate trend. But I think you live and breathe in the world and you respond creatively, as forcefully as you can.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "467.826716,499.731448"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/transcription-annotation-42.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "This conference is about honoring the tradition of poets. Who are some of the ones who you particularly honor in your work or who have influenced your imagination?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "499.731448,508.753351"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/transcription-annotation-43.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "It's a very long lineage with me. Definitely a number of the poets here. Amiri Baraka, Sonia Sanchez, Rita Dove. But there are also a number of poet-- Yusef Komunyakaa. But there are also a number of poets who are not here who are equally important, living and breathing. Derek Walcott, for example. Gwendolyn Brooks, for example.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "508.753351,539.263789"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/transcription-annotation-44.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "But I think I take my cues from a whole host of American poets and world poets, from Central Europe, I like Adam Zagajewski and Czesław Miłosz, and Joseph Brodsky who's a very important poet in my canon.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "539.263789,563.622929"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/transcription-annotation-45.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "But it's a very difficult-- it's, you know, influence is not as discernible as one would think. I mean, you know, there are moments in which I'll write a poem and won't realize until months later that, my god, you know, there's a phrase from Yusef, you know, I better get that out of there.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "563.622929,591.508814"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/transcription-annotation-46.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "You know, on one hand, it's one person-- one person might characterize it as theft, another person call it borrowing. I like to think that it's the latter, that I'm borrowing. And I think that's a question of, also, your ear and what your ear is attuned to hear,",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "591.508814,612.177175"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/transcription-annotation-47.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "and who's, you know-- I think what poems give us most is idiomatic phrasing. Idioms have a particular time period, but also particular life rhythms and breathing. And so, you know, that's what we inherit from these, from some of these poets.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "612.177175,633.501674"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/transcription-annotation-48.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "So, you sort of talked about this already, but if you could elaborate a bit more about the idea of an African American poetic tradition. You mentioned that you're honoring some poets who are not of that tradition. How important is it to have Black writers who are people who influence you, motivate you to write poems?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "633.993778,650.971361"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/transcription-annotation-49.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "You know it's really, I think, for me, it's a given. I mean it's not a question that I have anxiety over. I mean I fortunately have in my literary tree, Asian poets, Russian women, Anna Akhmatova, alongside someone like Robert Hayden, Michael Harper, Haki Madhubuti. I mean, they're all together,",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "652.037586,683.8603"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/transcription-annotation-50.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "and I think those distinctions, those distinctions at times in my world can be boring because I'm trying to be the best writer that I can be. And I'm not going to say, okay, I'm gonna turn away from that part of the room because that room doesn't look like people who look like me. For me, as an artist, I'm a scavenger.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "683.8603,706.661112"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/transcription-annotation-51.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "So wherever I can learn something about the uses of language and how to transform ordinary life experiences into formidable, permanent works of art, that doesn't break down by gender or class or race. I'm going to see who has the power and how can I arrest some of that power for myself.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "706.661112,738.729878"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/transcription-annotation-52.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "And you mentioned ordinary experience, is there a particular reason why ordinary experiences are important to you?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "739.139965,744.061003"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/transcription-annotation-53.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Oh, ordinary experiences are important because ordinary people are important to me. And I think it's that, you know, my work seeks to honor those lives more than anyone else. You know, I mean, whether they're bus drivers or teachers or peasants in, only kind of China.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "744.061003,769.896455"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/transcription-annotation-54.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "You know, I think it's those lives that history often misses sometimes, you know. And I think where you don't find them in the textbooks, you definitely can find how people felt and lived during a particular time period by looking at the literature.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "769.896455,794.665681"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/transcription-annotation-55.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "So the literature provides a kind of memory.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "794.665681,797.618304"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/transcription-annotation-56.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "It is, you best believe it's memory. I mean, you take away the-- you take the writers, and what you have is voices on poems, voices on the page, you know. And, you know, that's the community, ultimately that's the community. And that's about going back in time but also that voice being with us in the present, you know?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "797.618304,824.930067"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/transcription-annotation-57.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "When you talk about recognizing ordinary voices and honoring ordinary voices and honoring poets, Gwendolyn Brooks comes to mind. She's been honored by several of the poets who've read, including yourself. Could you say a bit more about what Gwendolyn Brooks represents for you?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "824.930067,840.595373"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/transcription-annotation-58.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Well, she's the, in my world she's the Grand Dame of American poetry. Period. And her vision of what language and poetry means to the well being of this country is inestimable, and underestimated too, you know?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "840.595373,865.774686"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/transcription-annotation-59.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "And so she in her generosity harvested a number of right thinking human beings who carry on her vision to their students or to their family, to their churches. And I think that's-- that kind of person who has that kind of impact on the world around them, it's not surprising that you'll have three or four people at a conference such as this who--",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "865.774686,902.108353"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/transcription-annotation-60.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "I like the idea of harvesting the right-minded people and extending that vision to thinking forward. The conference is-- the subtitle of the conference is <i>Regenerating the Black Poetic Tradition</i>. What is your sense about the future directions, or some future directions of African American poetry, both in your own work and some of the colleagues of your generation?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "902.108353,922.776714"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/transcription-annotation-61.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Well, the-- each, you know, each generation contributes to that tradition. And they fight against it, they walk in step with it. And it's in that tension that something new is born out of, and I think the future is going to accommodate more experimental writers.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "922.776714,946.069629"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/transcription-annotation-62.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Writers in the community who's not terribly interested in making sense or making meaning, but whose relationship to poetry is purely elemental-- in sound or in the actual material of words themselves. I mean, that's where their relationship is:",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "946.069629,972.971305"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/transcription-annotation-63.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "they're nonlinear, and they're non-narrative. And I think the future of this particular tradition, which is going to be very interesting-- because I think in the interstices of that non-meaning, we're going to find meaning. And possibly a way of living in a world without, you know, without that quest for something kind of nailed down as the epiphany or the meaning of existence. I think we're gonna get comfortable in living in, as Keats says, living in uncertainty.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "972.971305,1007.418574"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/transcription-annotation-64.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Part of what I hear, I don't know if this is what you had in mind, but part of what I hear when you talk about a new space for this kind of experimental poetry is a move away from the expectation of a kind of political commentary.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1007.418574,1020.62336"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/transcription-annotation-65.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Oh, for sure, definitely that's a part of it. But I think the-- what we're going to come to understand is the act of creating is political in of itself. That's one. Two, something as didactic as political meaning is going to be embedded in the aesthetic. The aesthetic is going to be resistant, or is resistant.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1020.213274,1042.85005"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/transcription-annotation-66.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "And it's, we're not, there's going to be-- you know, we're going to understand that, for example, a Harryette Mullen poem stands alongside, rhetorically and aesthetically, as a Malcom X speech. And once we arrive to that point, I think we're going to be able to see the possibilities of what that means for us on a day-to-day basis. I mean, that's my unfettered hope and optimism about the impact that poetry can have in our lives.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1042.85005,1073.114436"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/transcription-annotation-67.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "That's a very powerful vision, the idea that what Harryette Mullen does experimentally can have that same political impact. So you've mentioned a couple of other poets. What about your future directions? What are you--",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1073.114436,1084.760894"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/transcription-annotation-68.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "I don't know. I think it's one, one project at a time, one poem at a time, one book at a time. And my hope, I mean, right now, I see my work moving less from an ornate kind of use of diction, for example, to the very power in a simple utterance, you know.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1084.760894,1114.697211"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/transcription-annotation-69.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "And being very aware, being very conscious and aware of that. I'm also hoping to explore the forms that we inherited with hopes that I could someday make my imprint with my own, you know, my own-- what would we call it? Major, the Major form, you know, the Jackson form, you know, whatever that may be.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1114.697211,1137.990126"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/transcription-annotation-70.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "The Major form.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1134.545399,1135.447589"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/transcription-annotation-71.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Kind of majoring in Major verse. Returning to Gwendolyn Brooks again, she said that \"we are each other's/ harvest:/ we are each other's/ business:/ we are each other's/ magnitude and bond. At the Furious Flower conference 10 years ago, there was a sense that this bond became a kind of collective. Do you have that same sense of contemporary poets today? Is there a community of--?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1137.990126,1159.232608"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/transcription-annotation-72.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Oh, the community is beautiful. And it's large, and it extends beyond this, you know, these four walls, this campus. You know, we-- I like what Haki was saying last night about poets being in the business of creation and building, not destruction.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1159.232608,1187.118492"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/transcription-annotation-73.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "And I think we're living in a time right now in which our interior lives are taking a beating because of the actions of our leaders, right? And so, you know, the community of creators and writers are being called upon right now to perform necessary work to counter that kind of-- the kind of shake up in our interior. Our interior lives.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1187.118492,1220.417519"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/transcription-annotation-74.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "We're reconstructing our humanity-- let's put it that way-- against this particular assault, you know. So the- and I say poets, but of course I'm thinking about musicians, I'm thinking about visual artists, you know. It's huge.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1220.417519,1240.675793"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/transcription-annotation-75.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "And how does the community serve one another? What are the-- how do the community of poets serve each other?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1240.675793,1246.417005"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/transcription-annotation-76.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "I think just being aware that someone else is laboring their own poems, I think is enough, sometimes. Other times it's very practical, you know, practical service of, you know-- I need an audience, you know, could you read this poem, or what do you make of this particular line, you know?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1246.991126,1275.451131"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/transcription-annotation-77.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "And on another hand, there's also this interpretive work that's going on, where the, where the poem becomes less of a mirror of the author, finding their voice on the page, speaking back to them, but more the poem being a kind of voice for the community in of itself, you know. So.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1275.451131,1303.337015"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/transcription-annotation-78.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "And it's interesting to hear you talk about shifting terms about this political mandate, from a kind of political rhetoric to providing a voice for the community through the beauty and the aesthetic of the poem, recording these individual voices and honoring them. How does that, how do you imagine that that can help us as you put it rebuild our interior life, reconstruct our humanity?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1303.337015,1329.500536"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/transcription-annotation-79.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Well, you know, that's the practical, that's the question of the practical uses of art. I mean, it's a ritualistic function, and it brings people together, across time, across geography.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1332.535177,1352.383365"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/transcription-annotation-80.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "And to know that, I mean, to become aware of something larger than yourself, is the same sort of impact. And that's a kind of sacredness that, that language and art, and poetry does. And I think, once you enter into that awareness and that consciousness, you know, it's about hope, and it does add, add more meaning to existence.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1352.383365,1383.139855"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/transcription-annotation-81.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "That's lovely. Do you find yourself in the community-- how, I guess one way to think about it is how big has this community become? Scholars, like myself have talked about hip-hop artists, talked about spoken word and performance poetry, as getting the same kind of vision out into broader and broader publics, or the Def Poetry Jam. How do you feel about that kind of expansion? ",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1383.139855,1406.43277"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/transcription-annotation-82.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "I think it's very important. I think it's, you know, the great thing about this is that it's raising the importance and awareness of art, period. So that someone does not have to grow up thinking that they have to be you know, that they have to be a lawyer or a doctor, meaning it becomes a viable, a viable means of living and breathing in and working in the world.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1406.43277,1440.059865"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/transcription-annotation-83.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "And, you know, these kids, the hip-hop artists, and the spoken word artists and poets, we go into schools, and we talk to each other and we raise the value of talking in of itself, creatively, you know.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1440.059865,1455.397101"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/transcription-annotation-84.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "So even that impact alone, where, you know, you have a kid who comes to realize that their community is their home, of course, but it's also this other kind of, like, create-a-space that they can,",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1455.397101,1472.292667"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/transcription-annotation-85.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "I mean-- just think about, just think about how there was a moment in public education in which kids were being educated about their civic duty, you know. What I'm saying is that we also have a duty to each other in which art facilitates that care, that taking care of each other. And poetry is the best way because it allows each individual voice, particularly the voices of children to be heard too.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1472.292667,1503.131174"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/transcription-annotation-86.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "You done?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1507.970195,1508.626333"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/transcription-annotation-87.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Yes ma'am",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1508.298264,1509.03642"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/transcription-annotation-88.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Cool!",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1509.03642,1509.610541"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/transcription-annotation-89.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Okay.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1509.610541,1510.020627"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/transcription-annotation-90.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Okay.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1509.856593,1510.594749"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/transcription-annotation-91.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "You guys are short, sweet, to the-- I mean not short but just very succinct and very-- I mean I have nothing to add.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1510.020627,1514.531579"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/transcription-annotation-92.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Okay, good.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1514.531579,1516.171925"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/transcription-annotation-93.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Ok. How long was that?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1515.187718,1516.582012"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/transcription-annotation-94.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "I think we got like 20 minutes.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1516.171925,1517.320168"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/transcription-annotation-95.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "20 minutes. That's good. That's good. That's perfect.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1516.582012,1519.206566"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/transcription-annotation-96.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Hang on for one second.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1518.878497,1520.354808"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/transcription-annotation-97.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[Inaudible]",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1519.206566,1520.354808"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/transcription-annotation-98.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Don't move. I mean, well, now I just want to talk like a regular conversation.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1520.354808,1524.127604"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/transcription-annotation-99.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Okay.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1523.799535,1524.701725"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/transcription-annotation-100.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Just don't talk at the same time. We're getting some cutaways.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1524.701725,1529.048643"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/transcription-annotation-101.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Alright.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1529.048643,1529.622764"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/transcription-annotation-102.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Okay. That was fun. You have a very expansive vision. That was actually one of the things that happened at my panel discussion this morning. Joanne Gabbin was talking about the poetry of Lucille Clifton is expansive. And she starts with her experience as a Black woman and is able to reach out beyond what is considered-- too often considered to be a limitation to people out there.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1529.392731,1552.751644"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/transcription-annotation-103.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "It's necessary, don't you think? I mean to some extent because poetry also, and this is a downside, if fostered--",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1552.751644,1560.010176"
+        }
+      }
+    }
+  ]
+}
