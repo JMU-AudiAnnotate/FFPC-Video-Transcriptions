@@ -1,0 +1,48 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff010/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "FF010" ] },
+    "homepage": [
+      {
+        "id": "https://commons.lib.jmu.edu/ffpc-events/9/",
+        "type": "Text",
+        "label": { "en": [ "FF010" ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "https://commons.lib.jmu.edu/",
+        "type": "Agent",
+        "label": { "en": [ "JMU Libraries" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff010/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 3599,
+        "items": [
+          {
+            "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff010/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff010/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://apps.lib.jmu.edu/audiannotate/FF010.mp3",
+                  "type": "Sound",
+                  "format": "audio/mp3",
+                    "duration": 3599
+                },
+                "target": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff010/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
