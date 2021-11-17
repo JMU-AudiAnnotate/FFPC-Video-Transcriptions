@@ -27,6 +27,12 @@
           
           {
             "type": "AnnotationPage",
+            "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff137/canvas-1/canvas/environment.json",
+            "label": "Environment"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
             "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff137/canvas-1/canvas/transcription.json",
             "label": "Transcription"
           }
