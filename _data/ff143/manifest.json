@@ -23,6 +23,20 @@
         "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff143/canvas-1/canvas",
         "type": "Canvas",
         "duration": 2362,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff143/canvas-1/canvas/transcription.json",
+            "label": "Transcription"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff143/canvas-1/canvas/transcription--poem.json",
+            "label": "Transcription, Poem"
+          }
+        ],
         "items": [
           {
             "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff143/canvas-1/paintings",
