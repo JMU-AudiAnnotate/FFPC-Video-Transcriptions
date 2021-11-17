@@ -23,6 +23,14 @@
         "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
         "type": "Canvas",
         "duration": 1750,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription.json",
+            "label": "Transcription"
+          }
+        ],
         "items": [
           {
             "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/paintings",
