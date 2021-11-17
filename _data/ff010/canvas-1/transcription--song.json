@@ -1,0 +1,29 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff010/canvas-1/canvas/transcription--song.json",
+  "type": "AnnotationPage",
+  "label": "Transcription, Song",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff010/canvas-1/canvas/transcription--song-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "I won't complain. I've had some good days. I've had some hills to climb. But all of my good days, outweigh my bad days, and I, I won't complain.'",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff010/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "3557.98721,3585.804698"
+        }
+      }
+    }
+  ]
+}
