@@ -1,0 +1,92 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff153/canvas-1/canvas/environment.json",
+  "type": "AnnotationPage",
+  "label": "Environment",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff153/canvas-1/canvas/environment-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[Laughter]",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff153/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "38.0683,40.596273"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff153/canvas-1/canvas/environment-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[Muffled mic]",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff153/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1055.726162,1057.436261"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff153/canvas-1/canvas/environment-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[Laughter]",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff153/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1074.091143,1081.935295"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff153/canvas-1/canvas/environment-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[Audio cuts out]",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff153/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1356.37837,1364.882397"
+        }
+      }
+    }
+  ]
+}
