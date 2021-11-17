@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "Furious Flower Poetry Center Transcriptions" ] },
+    "summary": { "en": [ "" ] },
+    "items": [
+    ]
+}
