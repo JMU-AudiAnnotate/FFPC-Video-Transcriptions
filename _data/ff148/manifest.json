@@ -153,12 +153,6 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff148/canvas-1/canvas/1995-462562.json",
-            "label": "1995.462562"
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff148/canvas-1/canvas/1312-127877.json",
             "label": "1312.127877"
           }
