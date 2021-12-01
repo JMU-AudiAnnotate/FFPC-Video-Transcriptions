@@ -35,7 +35,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Brenda Marie Osbey, B-r-e-n-d-a M-a-r-i-e O-s-b-e-y.",
+        "value": "<body><font color="blue">Brenda Marie Osbey, B-r-e-n-d-a M-a-r-i-e O-s-b-e-y.</font></body>",
         "format": "text/plain"
       },
       "target": {
