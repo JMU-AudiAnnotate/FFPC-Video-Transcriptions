@@ -1,0 +1,29 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff148/canvas-1/canvas/1945-133186.json",
+  "type": "AnnotationPage",
+  "label": "1945.133186",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff148/canvas-1/canvas/1945-133186-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"lightgrey\">I think it fits perfectly, I think it's-- I think it's about as precise and as exact as we can get. I really think it is because it means a lot of different things at the same time. Of course, historically, we're an African people in the Americas. And there're so many versions and variations of that. And of course, there's a tendency to think of African American as a monolith, which of course, it never is, never was.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff148/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1945.133186,1977.318066"
+        }
+      }
+    }
+  ]
+}

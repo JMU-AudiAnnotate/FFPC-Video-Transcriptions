@@ -1,0 +1,29 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff148/canvas-1/canvas/1086-509708.json",
+  "type": "AnnotationPage",
+  "label": "1086.509708",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff148/canvas-1/canvas/1086-509708-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"lightgrey\">There are lots of images of broken things, and sometimes stanzas seem to end at a point where nothing has actually happened. Something might be about to happen. But we don't know yet what that is, and we don't find out in that poem. So that we get bits and pieces. And the thing is, it isn't the story that's important, it is the thing that eventually, we begin to realize as readers.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff148/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1086.509708,1112.430417"
+        }
+      }
+    }
+  ]
+}

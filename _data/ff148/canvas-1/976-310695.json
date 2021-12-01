@@ -1,0 +1,29 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff148/canvas-1/canvas/976-310695.json",
+  "type": "AnnotationPage",
+  "label": "976.310695",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff148/canvas-1/canvas/976-310695-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"lightgrey\">In Robert Hayden's <i>Middle Passage</i>, for instance, there is not a beginning, middle and end. We begin in the middle or at the end, we can't tell which it is, it depends on, on who's actually reading the poem. But we have snippets and passages and excerpts of things, of documents, of things that both support and critique reality.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff148/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "976.310695,998.271296"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff148/canvas-1/canvas/1040-320445.json",
+  "type": "AnnotationPage",
+  "label": "1040.320445",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff148/canvas-1/canvas/1040-320445-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"lightgrey\">I wonder that there are these wholes that we constantly seek out. I wonder. I was raised in a tradition that believes very much in whole, in the whole in the beauty of the whole. That a thing is good when it is beautiful, a thing is beautiful when it is whole, that wholeness and beauty and health all go together, that those are all the same thing. And so on the one hand I was brought up in a tradition that, that holds very dearly to that principle.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff148/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1040.320445,1070.021258"
+        }
+      }
+    }
+  ]
+}

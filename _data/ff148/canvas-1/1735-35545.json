@@ -1,0 +1,29 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff148/canvas-1/canvas/1735-35545.json",
+  "type": "AnnotationPage",
+  "label": "1735.35545",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff148/canvas-1/canvas/1735-35545-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"lightgrey\">I'm trying to read the poem in the voices that are speaking in the poem whether there are narrators functioning as actual narrators or not, and that's quite different. And I think what happens also is that there is the ability to improvise, it's not that I'm reading words that aren't on the page, or that I'm leaving out words that are on the page.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff148/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1735.35545,1758.612086"
+        }
+      }
+    }
+  ]
+}

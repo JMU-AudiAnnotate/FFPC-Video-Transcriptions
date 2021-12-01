@@ -1,0 +1,29 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff148/canvas-1/canvas/1418-474785.json",
+  "type": "AnnotationPage",
+  "label": "1418.474785",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff148/canvas-1/canvas/1418-474785-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"lightgrey\">And one of the things that fascinates me about Black folk, wherever we find them is the extent to which we have always joyed in language. We're a tongue people. We believe in loose tongues and free tongues. And one of the things that I think it's very easy to forget nowadays with the 21st century, one of the things that's very easy to forget, is that we came to the new world as a multilingual people.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff148/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1418.474785,1450.623664"
+        }
+      }
+    }
+  ]
+}

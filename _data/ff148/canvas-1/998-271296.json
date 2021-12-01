@@ -1,0 +1,29 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff148/canvas-1/canvas/998-271296.json",
+  "type": "AnnotationPage",
+  "label": "998.271296",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff148/canvas-1/canvas/998-271296-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"lightgrey\">And because we have all of that laid bare for us, it's like walking into a room where we have the option to rearrange everything each time we enter the room. Or perhaps each time we enter the room, we see the room as a different environment, and we organize it to suit our purposes for that moment. So that the poem exists in a kind of moment that is that moment at that time.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff148/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "998.271296,1030.924189"
+        }
+      }
+    }
+  ]
+}

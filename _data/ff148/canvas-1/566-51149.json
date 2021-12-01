@@ -1,0 +1,29 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff148/canvas-1/canvas/566-51149.json",
+  "type": "AnnotationPage",
+  "label": "566.51149",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff148/canvas-1/canvas/566-51149-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"lightgrey\">The difference there is that the vendeurs, these free Black women, are doing their own form of containment and tying. Their heads are tied in these sumptuous cloths. There's a passage later on in the poem that I didn't read, that talks about how they layer their ankles in gold and silver bracelets because this represents their freedom, oddly enough.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff148/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "566.51149,588.265085"
+        }
+      }
+    }
+  ]
+}

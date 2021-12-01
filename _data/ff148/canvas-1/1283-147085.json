@@ -1,0 +1,29 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff148/canvas-1/canvas/1283-147085.json",
+  "type": "AnnotationPage",
+  "label": "1283.147085",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff148/canvas-1/canvas/1283-147085-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"lightgrey\">And that we can represent horrible things in beautiful language is one of the most shocking, one of the most shocking things. I think it happens in prose fiction quite a lot as well. There's that beautiful passage in Toni Morrison's Beloved where Sethe is attempting to behead her child because the slavers are coming. And it's one of the most beautiful passages, I think, in the English language.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff148/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1283.147085,1312.127877"
+        }
+      }
+    }
+  ]
+}

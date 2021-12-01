@@ -1,0 +1,29 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff148/canvas-1/canvas/1995-462562.json",
+  "type": "AnnotationPage",
+  "label": "1995.462562",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff148/canvas-1/canvas/1995-462562-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"lightgrey\">And so it's one of those-- one of the things that I always say is that when we make those kinds of distinctions, that slavery under the French was better or slavery under the Spaniards was better or slavery under the British-- my slave master's better than your slave master never made any sense to me at all. We're talking about different experiences, we're talking about different cultural influences, we're talking about different, different approaches to acquiring and claiming freedom.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff148/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1995.462562,2025.451382"
+        }
+      }
+    }
+  ]
+}

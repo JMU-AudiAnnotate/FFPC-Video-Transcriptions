@@ -1,0 +1,29 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff148/canvas-1/canvas/52-129425.json",
+  "type": "AnnotationPage",
+  "label": "52.129425",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff148/canvas-1/canvas/52-129425-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"lightgrey\">And that got me thinking about Nina Simone as a kind of an image, as an overpowering image of my girlhood. My best girlfriend Marceline and I really did have an incident where her sister came into the bedroom and found us messing with her stuff, and said to us, if we wanted to be so grown, blah, blah, blah, blah, blah.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff148/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "52.129425,79.058162"
+        }
+      }
+    }
+  ]
+}

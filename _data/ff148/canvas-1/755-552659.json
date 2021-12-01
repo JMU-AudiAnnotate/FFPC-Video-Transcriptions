@@ -1,0 +1,29 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff148/canvas-1/canvas/755-552659.json",
+  "type": "AnnotationPage",
+  "label": "755.552659",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff148/canvas-1/canvas/755-552659-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"lightgrey\">that while the primary procession is taking place, the formal procession is taking place, there are-- there's this band, or rather there are multiple bands of people gathered along the side, who are doing these other things. And each time they do the other thing, it takes a different form. Nobody dances the second line exactly the same way twice. There's certain basic steps, certain basic movements, and you do countless variations on those.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff148/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "755.552659,783.453422"
+        }
+      }
+    }
+  ]
+}

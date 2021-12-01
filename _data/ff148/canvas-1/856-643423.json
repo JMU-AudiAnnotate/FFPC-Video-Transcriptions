@@ -1,0 +1,29 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff148/canvas-1/canvas/856-643423.json",
+  "type": "AnnotationPage",
+  "label": "856.643423",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff148/canvas-1/canvas/856-643423-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"lightgrey\">Sherley Anne Williams has a problem with history in her long narrative poems. Jay Wright has a problem with history. And so history becomes the problem. It becomes the thing that you look at, the thing that you worry, the thing that you finger. It's the scab, it's the sore, and you work around it constantly. It's always there, and it never quite goes away. It's never finished. And therefore neither are we.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff148/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "856.643423,882.744137"
+        }
+      }
+    }
+  ]
+}

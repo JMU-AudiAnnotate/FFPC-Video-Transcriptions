@@ -1,0 +1,29 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff148/canvas-1/canvas/725-095826.json",
+  "type": "AnnotationPage",
+  "label": "725.095826",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff148/canvas-1/canvas/725-095826-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"lightgrey\">things like hot calas, the bending of form, the recreating, and the fracturing of form, and space, and time, a kind of disbelief even in time; that history isn't the past, history is what happens. And so history is acting in us, we are acting in it, and we were acting upon it all of the time, that it's always all going on. And that's the beauty of the dance that we call second line,</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff148/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "725.095826,755.552659"
+        }
+      }
+    }
+  ]
+}

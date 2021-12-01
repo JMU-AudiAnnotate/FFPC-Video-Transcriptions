@@ -1,0 +1,29 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff148/canvas-1/canvas/1826-005928.json",
+  "type": "AnnotationPage",
+  "label": "1826.005928",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff148/canvas-1/canvas/1826-005928-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"lightgrey\">I did my undergrad as-- part of my undergraduate studies I did in France and returned to the southern region for six months to work on a new book project that's a bilingual French-English (smattering of Creole), project about slavery and resistance in Louisiana under the French colonial regime. So that's one project, and then there are two other poetry manuscripts.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff148/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1826.005928,1851.926637"
+        }
+      }
+    }
+  ]
+}

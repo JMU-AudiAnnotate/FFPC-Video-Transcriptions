@@ -1,0 +1,29 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff148/canvas-1/canvas/926-665338.json",
+  "type": "AnnotationPage",
+  "label": "926.665338",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff148/canvas-1/canvas/926-665338-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"lightgrey\">Yeah, the long narrative poem-- it seems to me the older I get the longer the poems get! The long narrative poem has become for me an ideal form. On the one hand, it's quite open, you can do all kinds of things, you can have a multitude of narrative and lyric voices happening in there. Recently, I've been experimenting with rhyme in the long poem.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff148/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "926.665338,952.586047"
+        }
+      }
+    }
+  ]
+}

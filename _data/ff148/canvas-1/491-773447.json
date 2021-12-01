@@ -1,0 +1,29 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff148/canvas-1/canvas/491-773447.json",
+  "type": "AnnotationPage",
+  "label": "491.773447",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff148/canvas-1/canvas/491-773447-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"lightgrey\">So one of the things that the poem does is it appropriates the colonial and colonizing voice, the dehumanizing voice, but writing against that constantly. And I think the authoritative voice in the poem is the voice of the woman who speaks and who is spoken about and who is written about and who is unreachable, unattainable and who remains removed from all of this.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff148/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "491.773447,518.558179"
+        }
+      }
+    }
+  ]
+}

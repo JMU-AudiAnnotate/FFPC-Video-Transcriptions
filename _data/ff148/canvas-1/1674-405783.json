@@ -1,0 +1,29 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff148/canvas-1/canvas/1674-405783.json",
+  "type": "AnnotationPage",
+  "label": "1674.405783",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff148/canvas-1/canvas/1674-405783-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"lightgrey\">When everything is going well, there's this energy that passes back and forth between the poet and the audience. And we feed on that, it's a mutual thing. That doesn't necessarily happen with the critic. It doesn't necessarily happen. Because there's this attempt to impose this order from outside. And one of the things that the poet, of course wants to do is to break the rules, and to destroy the order, and perhaps to create a new order.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff148/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1674.405783,1698.850452"
+        }
+      }
+    }
+  ]
+}

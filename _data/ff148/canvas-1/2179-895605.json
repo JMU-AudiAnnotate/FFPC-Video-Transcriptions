@@ -1,0 +1,29 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff148/canvas-1/canvas/2179-895605.json",
+  "type": "AnnotationPage",
+  "label": "2179.895605",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff148/canvas-1/canvas/2179-895605-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"lightgrey\">And I think that, maybe it's a little bit easier for poets to be aware of that, because I think poets may have a tendency to read across genres and across languages, much more so than other folk, it isn't uncommon for poets to read bilingually, trilingually, or at least to work with bilingual texts. It isn't-- it isn't as unusual perhaps for us to do that.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff148/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2179.895605,2205.420303"
+        }
+      }
+    }
+  ]
+}

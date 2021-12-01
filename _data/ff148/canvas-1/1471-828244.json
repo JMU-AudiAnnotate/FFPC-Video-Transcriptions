@@ -1,0 +1,29 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff148/canvas-1/canvas/1471-828244.json",
+  "type": "AnnotationPage",
+  "label": "1471.828244",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff148/canvas-1/canvas/1471-828244-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"lightgrey\">And language is one of those things that's, of course, always been used against us as a tool, as a weapon. And it's the kind of thing that we've always embraced and said-- a perfect example of that is Creole language. You take the masters' language, which might be French or Spanish or Portuguese or Dutch. And you say this is your language. This is the language of the master. This is the language in which you control me. This is the language in which you turn me into an abject object. This is the language in which you denigrate me.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff148/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1471.828244,1500.665033"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff148/canvas-1/canvas/1570-43494.json",
+  "type": "AnnotationPage",
+  "label": "1570.43494",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff148/canvas-1/canvas/1570-43494-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"lightgrey\">And finally, that's what poetry is really all about. More so I think than all of the other literary art forms, poetry is lodged in language, and you have to go through the language-- there is no other way. If it doesn't exist in the poem, if it doesn't exist in the text, then it ain't there. And you can't, you can't put it there, you have to enter the poem through the language. And part of what that means is that you have to be able to enter the poet's world.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff148/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1570.43494,1599.883746"
+        }
+      }
+    }
+  ]
+}
