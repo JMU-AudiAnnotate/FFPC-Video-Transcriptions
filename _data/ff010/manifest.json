@@ -39,6 +39,12 @@
           ,
           {
             "type": "AnnotationPage",
+            "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff010/canvas-1/canvas/speaker.json",
+            "label": "Speaker"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
             "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff010/canvas-1/canvas/transcription--song.json",
             "label": "Transcription, Song"
           }
