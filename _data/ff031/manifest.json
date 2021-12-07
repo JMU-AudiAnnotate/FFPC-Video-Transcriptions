@@ -1,4 +1,4 @@
-a{
+{
     "@context": "http://iiif.io/api/presentation/3/context.json",
     "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031/manifest.json",
     "type": "Manifest",
