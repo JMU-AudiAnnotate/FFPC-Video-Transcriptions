@@ -7,7 +7,7 @@
       {
         "id": "https://commons.lib.jmu.edu/ffpc-2004/10/",
         "type": "Text",
-        "label": { "en": [ "FF140" ] },
+        "label": { "en": [ "Video available" ] },
         "format": "text/html"
       }
     ],
@@ -15,7 +15,7 @@
       {
         "id": "https://commons.lib.jmu.edu",
         "type": "Agent",
-        "label": { "en": [ "JMU Libraries" ] }
+        "label": { "en": [ "JMU Scholarly Commons" ] }
       }
     ],
     "items": [
