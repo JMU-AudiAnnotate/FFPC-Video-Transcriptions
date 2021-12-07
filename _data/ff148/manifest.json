@@ -11,13 +11,6 @@
         "format": "text/html"
       }
     ],
-    //"provider": [
-      //{
-       // "id": "https://commons.lib.jmu.edu/",
-        //"type": "Agent",
-        //"label": { "en": [ "JMU Scholarly Commons" ] }
-      //}
-    //],
     "items": [
       {
         "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff148/canvas-1/canvas",
