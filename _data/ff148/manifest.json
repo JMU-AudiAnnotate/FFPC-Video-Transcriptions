@@ -7,17 +7,17 @@
       {
         "id": "https://commons.lib.jmu.edu/ffpc-2004/17/",
         "type": "Text",
-        "label": { "en": [ "Video available at FF148" ] },
+        "label": { "en": [ "Video available at JMU Scholarly Commons" ] },
         "format": "text/html"
       }
     ],
-    "provider": [
-      {
-        "id": "https://commons.lib.jmu.edu/",
-        "type": "Agent",
-        "label": { "en": [ "JMU Scholarly Commons" ] }
-      }
-    ],
+    //"provider": [
+      //{
+       // "id": "https://commons.lib.jmu.edu/",
+        //"type": "Agent",
+        //"label": { "en": [ "JMU Scholarly Commons" ] }
+      //}
+    //],
     "items": [
       {
         "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff148/canvas-1/canvas",
