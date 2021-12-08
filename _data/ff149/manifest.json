@@ -2,7 +2,7 @@
     "@context": "http://iiif.io/api/presentation/3/context.json",
     "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/manifest.json",
     "type": "Manifest",
-    "label": { "en": [ "FF149" ] },
+    "label": { "en": [ "Askia M. Touré Interview, 9/24/2004 (FF149)" ] },
     "homepage": [
       {
         "id": "https://commons.lib.jmu.edu/ffpc-2004/18/",
