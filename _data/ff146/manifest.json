@@ -2,7 +2,7 @@
     "@context": "http://iiif.io/api/presentation/3/context.json",
     "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff146/manifest.json",
     "type": "Manifest",
-    "label": { "en": [ "FF146" ] },
+    "label": { "en": [ "Kwame Dawes Interview, 9/25/2004 (FF146)" ] },
     "homepage": [
       {
         "id": "https://commons.lib.jmu.edu/ffpc-2004/15/",
