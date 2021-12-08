@@ -2,7 +2,7 @@
     "@context": "http://iiif.io/api/presentation/3/context.json",
     "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff010/manifest.json",
     "type": "Manifest",
-    "label": { "en": [ "FF010" ] },
+    "label": { "en": [ "Furious Flower Poetry Center Overview Part 1, 6/20/2011 (FF010)" ] },
     "homepage": [
       {
         "id": "https://commons.lib.jmu.edu/ffpc-events/9/",
