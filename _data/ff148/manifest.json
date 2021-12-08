@@ -2,7 +2,7 @@
     "@context": "http://iiif.io/api/presentation/3/context.json",
     "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff148/manifest.json",
     "type": "Manifest",
-    "label": { "en": [ "FF148" ] },
+    "label": { "en": [ "Brenda Marie Osbey Interview, 9/24/2004 (FF0148)" ] },
     "homepage": [
       {
         "id": "https://commons.lib.jmu.edu/ffpc-2004/17/",
