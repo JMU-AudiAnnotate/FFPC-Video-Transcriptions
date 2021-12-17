@@ -8,4 +8,5 @@ external_manifest_url:
 ---
 <!-- Add an essay or interpretive material below this line,
 using HTML or markdown.  Do not modify this file above this line -->
-<p><img src="https://www.jmu.edu/_images/furiousflower/furious-flower-logo.jpg"></img></p>
+<p style="text-align:center"><img src="https://www.jmu.edu/_images/furiousflower/furious-flower-logo.jpg"></img></p>
+<h1 style="text-align:center">Furious Flower Poetry Center</h1
