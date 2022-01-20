@@ -1,0 +1,2318 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription.json",
+  "type": "AnnotationPage",
+  "label": "Transcription",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=&#34navy&#34>Askia A-s-k-i-a, M. middle initial, Touré, T-o-u-r-é.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "7.866927,16.191233"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=&#34#008080&#34>John Bracey, B-r-a-c-e-y. </font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "18.889772,21.451097"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Okay John, you can go ahead and start.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "24.561278,26.848175"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=&#34#008080&#34>Okay. Askia, I've known you for, what, 40 years now and I first met you in the Black Power Movement, you were a poet then. </font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "26.848175,33.388702"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=&#34navy&#34>Yes.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "33.388702,34.715102"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=&#34#008080&#34>How did you see your role as a poet in that particular movement, what kind of poetry were you writing in the mid '60s, late '60s?</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "34.715102,41.43858"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=&#34navy&#34>Well, mid to late '60s... I would say it was the communal voice, the voice of the, what the Africans called the Djali or the Griot. We of course had that tradition in our people with the, of course the Reverend and the call and response of the reverend and the church, rhythm and blues singers and so forth. So continuing that, that tradition.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "41.43858,70.619391"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=&#34navy&#34>And so I saw that as key, because it was the call and response and you know, and I had-- people don't realize this but I had actually sung rhythm and blues or what we call doo-wop, yeah, back in the day.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "70.619391,87.633907"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=&#34#008080&#34>Do you have any particular poem from that period that you think was most exciting? Most responsive?</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "87.633907,93.213937"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=&#34navy&#34>Oh, so, a lot of them. One was Orphée Noir, for Ishmael Reed, Black Orpheus, yeah, that came out of the Umbra experience. And, um, there was another one called 'The Song of Fire', </font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "93.213937,118.049642"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=&#34#008080&#34>'The Song of Fire'.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "118.049642,119.421781"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=&#34navy&#34>Yeah. Which a distinguished gentleman, a negro scholar, called me a psychopath for  saying that our people had the right to rebel against oppression.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "119.421781,136.847938"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=&#34#008080&#34>Who were the other poets and influences around you during this period? You were in 'Black Fire' and a couple of the anthologies.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "136.847938,142.199278"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=&#34navy&#34>Oh, yeah. Yeah, yeah. Well we, uh--</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "141.010092,143.662893"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=&#34#008080&#34>Who were you reading and who were you [inaudible]?</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "143.662893,144.714865"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=&#34navy&#34>Yeah, I was, I had-- of course, I guess the central figure here in this country for us was Baba Langston Hughes, you know. Who was still a dynamic poet, and who contains as Walt Whitman said, we said, Langston contained multitudes.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "144.714865,168.658681"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=&#34navy&#34>And he had written 'Ask Your Mama', he was a publishing poet, recording poetry and jazz and so forth. So a lot of the things which he did influenced us.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "168.658681,184.50688"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=&#34navy&#34>And it was out of both observing Langston Hughes and reading the Negritude poets, particularly Aimé Césaire and Léon Dumas, that in writing for Liberator magazine a little later I said that I saw the the poet-- the musicians as the Priest-philosophers of our people.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "184.50688,210.989151"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-18.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=&#34navy&#34>And if anything I said, well, you know, we poets are just trying to keep up with our Priest-philosophers, so to speak.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "210.989151,221.234451"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-19.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=&#34#008080&#34>You wrote that great essay, rhythm and blues as a weapon. </font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "221.234451,225.122177"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-20.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=&#34navy&#34>Yeah, 'Keep on Pushin'</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "225.122177,226.494315"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-21.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=&#34#008080&#34>Keep On Pushin', yeah.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "226.494315,227.95793"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-22.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=&#34navy&#34>Rhythm and Blues as a Weapon</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "227.27186,229.238592"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-23.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=&#34#008080&#34>Was there any influence of rhythm and blues in your poetry? Is that one of the--</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "229.238592,232.6232"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-24.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=&#34navy&#34>Oh, yeah, yeah. One of the things that I learned from rhythm and blues too, because we were talking or someone had talked about the actual poem as being like a script. And I guess, as the Reverend said, 'we'll take from our text', and then you go and then you come back to it. It was that kind of a thing, you know, so. Uh huh.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "232.6232,260.866383"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-25.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=&#34navy&#34>So we were very much influenced by call and response by a whole community and yeah, and the role of our, again our blues singers, our doo-wop singers, you know, call and response. So we never saw ourselves as separate from our audience. We were like a dialectical kind of expression. </font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "260.866383,289.406862"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-26.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=&#34#008080&#34>Who were the other poets you were reading with?</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "289.406862,291.442201"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-27.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=&#34navy&#34>Oh, hey. First the Umbra poets. Calvin C. Thurnton and Lorenzo Thomas and... Lorenzo Thomas, did I say David Henderson? Ishmael, Ishmael Reed, a lot of people nowadays, view Ishmael just as this great novelist. But Ishmael was a heck of a poet, you know?</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "291.442201,316.781023"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-28.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=&#34navy&#34>And then a little bit later of course, my Bebop brother, Larry Neal, yeah. And then of course Amiri weaving in and out of everything downtown, and then later, coming to Harlem, us relocating in Harlem, and more or less, riffing off each other and feeding each other in the readings.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "316.781023,344.543957"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-29.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=&#34navy&#34>And one of the things I want to say too, is very important just for the record, that our readings in the midst of this period were sisters and brothers reading together, and not some-- a bunch of masculinist males, I think they call, you know, threatening the community or something, you know.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "344.543957,365.766365"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-30.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=&#34navy&#34>And we saw very much influence with Sonia Sanchez and Nikki Giovanni and Jackie Earley, and other sisters. Johari Amini, Carolyn Rogers, and so forth. </font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "365.766365,383.009571"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-31.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=&#34#008080&#34>Johari Amini.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "378.069873,378.938894"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-32.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=&#34navy&#34>One of my things in, in this whole process has been to restore to the overall community, the role of the black female liberationist poets of the Black Arts Movement who seem to be mysteriously written out of history. Sarah Webster Fabio, yes. Dr. Carolyn Fowler Gerald. Yes, yes.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "383.009571,407.342159"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-33.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=&#34#008080&#34>Let's step down a bit to the, to the, say mid '80s and '90s, when you took-- your poetry took a different turn.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "407.342159,413.653996"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-34.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=&#34navy&#34>Yes.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "413.653996,414.614493"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-35.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=&#34#008080&#34>You moved away from the directly political kind of, [inaudible] kind of poetry and began to do what I would call a kind of more introspective poetry going back to the Nile Valley and dealing with the origins of African peoples in the Nile Valley, and then doing things that had a broader historical sweep. So you want to say a bit about that? How you did that, why you did that? </font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "414.614493,435.059355"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-36.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=&#34navy&#34>Yes. Well, I think one of the-- two of the great influences on me, and people may find-- be somewhat surprised at this, were Pablo Neruda, and 'The Canto General', and William Butler Yeats and the Irish Movement.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "432.589506,454.909624"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-37.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=&#34navy&#34>And so I had to, you know, after Langston's passing and so forth, I had to, after-- and of course, the work of mother Margaret Walker 'For My People', and so forth. So I-- sorta using Langston and Mr. Hughes and Margaret Walker as a base, and so forth.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "454.909624,477.229743"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-38.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=&#34navy&#34>Then I began to more and more expand, I of course read the Negritude poets, but then, too, the peoples of the world, in particular, like I say, Pablo Neruda and Yeats and so forth. And I saw the whole process of-- see I had felt that African people had been denied due to, to our Holocaust, the so called Maafa,</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "477.229743,507.325312"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-39.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=&#34navy&#34>we had been denied our ancient voices, our ancient myth, our ancient symbolism, our ancient imagery as molders and shapers of civilization. And so I came under the influence of two giants domestically: our elder Griot and historian John Henrik Clarke, and across-- and of course the-- what we call the living Pharaoh, the master, Cheikh Anta Diop,</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "507.325312,537.878261"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-40.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=&#34navy&#34>and also the work of the brilliant African scholars in 'Présence Africaine'. And so, so that-- Cheikh Anta Diop was particularly concerned about African people not linking their literature to their classical civilizations, and he felt that Kemet, or Egypt, and Kush, Nubia were to ancient Africa, as to the Greco Roman classical civilizations were to Western Europe.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "537.878261,574.331405"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-41.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=&#34navy&#34>And so he felt that until the peoples of Africa linked up to the Nile Valley classical Africa, that they would not be complete. Their literature, their being would not be complete.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "574.331405,591.071494"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-42.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=&#34navy&#34>And so I saw that as a challenge. We were fortunate enough in Atlanta to welcome Cheikh Anta Diop at Morehouse College, where he gave his famous Morehouse lectures. And at the Martin Luther King International Chapel, and we walk with him through the community, and took him to a beautiful bookstore, a boutique by the shrine of the Black Madonna.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "591.071494,618.880166"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-43.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=&#34navy&#34>And we had all of the African masks, and so he would say-- 'oh', he said, 'You have so much'! You know. And so it was just a wonderful living experience.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "618.880166,628.256445"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-44.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=&#34navy#34>And so I realized that for the African peoples, other than in the deep, so called 'tribal' traditional societies, the African image, the-- particularly the intellectuals, and the scholars and people-- the African image was not sacred because most of the mass media in the modern world is controlled by non-Africans. Specifically, the people of the North, the Europeans. And so--</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "628.256445,657.848897"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-45.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=&#34#008080&#34>So could you just talk about those two books again, you know, 'From the Pyramids to the Projects' and 'Dawnsong!'  </font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "657.848897,662.605643"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-46.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=&#34navy&#34>Yeah, that was part of my project in, so to speak, answering Cheikh Anta. The, for me rather long epic poem, From the Pyramids, to the Projects, From the Projects to the Stars, I'll have you notice I didn't leave us at the projects. And the, the whole thing of taking a stand and, as Neruda had done with The Canto General,</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "659.358249,690.139888"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-47.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=&#34navy&#34>to say, at least, I'll put as much of our history as I can in the work. Now I was really influenced by the Nile Valley and Afro-centric scholars and so forth. But I said, you know, with all due respect to the philosophers and scholars, I said the poets not only had to know that history, but as we say, they had to make it swing, to make it rhythmic and soulful, and so forth, you know?</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "690.139888,719.320698"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-48.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=&#34navy&#34>And so, so that was, that was part of my venture into what I would say, the spiritual realm of myth, and the, the-- resurrecting hopefully, the Neteru of what the Yoruba called the Orishas. the sacred archetypes, or Set, the great Queen Mother of ancient Africa, but not only ancient Africa, the Mediterranean world, and so forth.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "719.320698,752.983827"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-49.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=&#34navy&#34>So the African woman's image as sacred, you know. And so, and then trying to modernis--nize it, I wrote a poem called 'Aboriginal Elegy: the Once and Future Queen', where I linked it-- the ancient Queens Amenirdis and Gladys Knight, you know, and so forth like that, you know, Hatshepsut and Bessie Smith.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "752.983827,783.21661"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-50.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=&#34navy&#34>And so, so I was playing on-- I would say I was trying to reach out to ancient-- the African heritage with the arms of African diasporic culture, the African American culture, with particularly the rhythms of the jazz and the, and the blues, and so forth, you know. So that was, that was key for my project of the '80s and the '90s.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "783.21661,811.619876"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-51.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=&#34navy&#34>But one of the things I want to make clear, and I learned this from Neruda, that I felt and I had seen-- and also somewhat from Langston and other people, too-- that the poet would speak in many voices. That that was the discipline, you didn't just, you didn't just speak, you didn't just write one way. You wrote to-- and I felt also that our embracing our archetypes and our images and so forth and conveying that sacredness to the world was universal.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "811.619876,848.621875"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-52.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=&#34navy&#34>We used to get jumped on-- my old friend Tom Feelings used to say that he get headaches of frustration, some time where educated black people would say, 'Why are you just painting them pictures of black people? Why don't you paint all people?' and so forth. He said, well, I paint the beauty and the humanity and dignity of black people and all people can respond to these universal care-- characteristics. And that's the way we saw our poetry. speci-- </font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "848.621875,880.226797"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-53.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=&#34#008080&#34>Were alot of people, uh, writing like you did? How would you group yourself with other poets, you know, Black poets of this period? West Indian poets maybe or African poets?</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "880.226797,888.871269"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-54.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=&#34navy&#34>Yeah, yeah. Yeah well, again, I know that Aimée Cesaire was doing advanced work. Unfortunately, Baba Léon Dumas passed from the scene. Senghor was doing some, some work as well. But, you know, how to make this live-- our ancient traditions live, to recover. And Larry Neal-- people also forget that Larry was, was making exploration of that. Ishmael Reed was you know.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "888.871269,922.122757"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-55.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=&#34navy&#34>Ishmael Reed said that Akhenaten looked like Prophet Jones. Like, and so I started, in the work, answering back, riffing back to Ishmael, and also to Larry Neal, you know. </font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "922.122757,941.927288"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-56.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=&#34#008080&#34>Are there any younger poets writing in this way, are you out there by yourself for the most part? </font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "941.927288,945.403372"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-57.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=&#34navy&#34>Yeah, there're younger poets. I can't recall, but I, when I wrote 'Juju' for John Coltrane, a young poet, I think this brother was from California, wrote a poem very similar to Juju answering me back.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "945.403372,962.783792"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-58.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=&#34navy&#34>And I just felt where I used more kind of ancient African and Islamic and Egyptian, he used a lot of Afro-Asian imagery with the yoga images and so forth. So I was just thrilled I have to, I've just been ripping and running with community work, you know, but I want to look him up and continue a dialogue with him. Because I felt that was a compliment, you know? Yes. Yeah.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "962.783792,992.742147"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-59.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=&#34#008080&#34>And you read the other day, you read a poem called 'A Song for Patriots' which is not an artypical form, it's not a poem that dealt in mythology. It was poem, a very political poem, a very contemporary poem. A poem that was in response to, you know, recent events in our culture and society. So how would you-- are you returning to your work of the '60s in writing specifically political poetry or are you, </font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "992.742147,1016.663094"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-60.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=&#34#008080&#34>Yeah, I was--</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1016.663094,1017.715067"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-61.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=&#34#008080&#34>do you think it's a continuity thing?</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1017.715067,1018.53835"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-62.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=&#34navy&#34>Yeah, I think it's continuity. I really never left. But it's, I remember Pablo Neruda's celebrated poem, 'Tina Modotti is Dead' where he answered some really right-wing Mexicans who were attacking the great internationally known photographer who championed the Mexican people.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1018.53835,1042.276344"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-63.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=&#34navy&#34>And so my, my thing was, I just wanted to make it clear, you know make it clear to our people because the right-wing Jingoists who are out here now who are bushwhacking everybody, they got people scared to-- people of all groups almost afraid to say anything and calling them-- you're not patriotic if you criticize the war machine, or the corruption or the, uh, Robin Hood in reverse, stealing from the poor to give to the rich and so forth.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1042.276344,1073.698314"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-64.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=&#34navy&#34>So I said well, no, let's, let's, come on let's what's what's, how to-- what, what is our comment on this community sisters and brothers? So I came up with, well I said let's be, let's talk patriotism. Well what are we patriotic to? Gwendolyn Brooks and Margaret Walker and beautiful soulful black sisters, and jazz</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1073.698314,1096.338598"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-65.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=&#34navy&#34>and people in, in the churches, shoutin' on Sunday. I said, and I said grape soda, Cadillacs, and so forth. And the feathery tropical flare of the sisters at church on Sunday with their fashions and so forth.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1096.338598,1115.594274"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-66.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=&#34navy&#34>So what are we loyal to? And I finally, in ending that I said, I talked about this great people who had, you know, stood down death and all the various Holocausts, the drug plagues, and everything which were put on us. And I said, I ended-- my final line was 'a people this poet loves with a furious passion'. And so we lay it out: this is what we're loyal to.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1115.594274,1145.552629"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-67.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=&#34navy&#34>And so because I think Secretary Powell talked about, we're so loyal to America we-- this, we say, yeah, but we have to ask you, Secretary Powell, is America loyal to us? Has America by it's history, been loyal to the masses of the African American people-- the Black working peoples, and stuff, in this country through the decades and centuries?</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1145.552629,1172.94966"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-68.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=&#34#008080&#34>So what's the responsibility of poetry? Now this is clearly a poem that you want to have an impact on people. This is a poem to move people. This is not a poem to be read in a quiet contemplative manner. And, you know, </font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1172.94966,1184.841526"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-69.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=&#34navy&#34>It, it can be. But yeah, it's, it's a it's a public, a public poem. Yes.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1184.841526,1190.741721"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-70.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=&#34#008080&#34>You're making a statement. Do you see this as the way poetry ought to be going? You see this as a trend? You see this as a revival in this type of poetry?</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1190.741721,1199.569145"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-71.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=&#34navy&#34>I do see, with the open mic movement and the, and the young poets and stuff. One of the things that I-- and I love them, and they tell me that I had a influence on them and even the way they recite-- was my brothers Abiodun, Umar, and the Last Poets.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1199.569145,1221.980739"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-72.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=&#34navy&#34>And so, who've also been called the original godfathers of rap. And so, so a lot of the MCs are sampling them, and Abiodun and Umar embrace the young poets and so forth.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1221.980739,1237.806069"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-73.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=&#34#008080&#34>In the spoken word--</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1237.806069,1238.492138"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-74.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=&#34navy&#34>In the spoken word, spoken word movement. So yes, so we embrace all of them and that's part of the communal voice, the resurrection of it in this generation. And I think the positive values-- I have some problems with the commercialization and the super slam thing. I'm more comfortable with, more the call and response, you know, yes.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1238.492138,1265.980645"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-75.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=&#34navy&#34>But, you know, the one thing Amiri has said- Amiri Baraka, has said, and I agree with him-- that, that doesn't mean that, you know, we don't manifest form and so forth. We tried to in fact, manifest new form, expand the form from Langston's period with the jazz rhythms and the blues. Stephen Henderson has written a very similar book 'Understanding [the] New Black Poetry' on that. In fact, we were trying to advance the form--</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1265.980645,1302.982644"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-76.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=&#34#008080&#34>Beyond the--</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1302.982644,1303.897403"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-77.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=&#34navy&#34>Beyond yeah, yes, stereotyping and just stale work. Yes, yes. So I'm, I would say, I'm very, very hopeful. I see the beginning of a resurrected spirit in the young poets. I think, though, and I, and I've heard them discuss among themselves, </font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1303.897403,1325.897356"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-78.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=&#34navy&#34>that they have to really struggle like crazy with this whole commercialization and getting paid and separating the people, the poets from the community and trying to buy out what is sacred to us in terms of our tradition.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1325.897356,1342.637445"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-79.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=&#34#008080&#34>Gwendolyn Brooks had said that, 'We are each other's/ harvest:/ we are each other's/ business:/ we are each other's/ magnitude and bond'. You will here 10 years ago at the Furious Flower conference and it was coming together at that point, you know, two great works came out of that. And here we are today. You know, and have you seen any changes? You see the same spirit? You see any intensification of that spirit?</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1342.637445,1365.506418"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-80.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=&#34navy&#34>Yes. Yeah, those of us who are blessed to be here, because we know we have many of our sisters and brothers who've passed on and become ancestors now. Those who're still here, we, it seems to be the expansion of a movement, I think it's very complex, it has, it has trends. Some people feel that we've gone too far, and, and so forth. But I think it's um--</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1365.506418,1393.680994"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-81.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=&#34#008080&#34>In what way, in what way?</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1393.31509,1394.275587"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-82.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=&#34navy&#34>That, well, what I gather, they were saying well people were telling us what to write, and so forth. And so we were, we were in a period, we said, everything needs to be judged within the context. In the '60s and '70s, even into the early '80s our people were at war, what we call the 1960s, '70s it was the African American Intifada, people were in the streets, battling the forces of oppression.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1394.275587,1422.129997"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-83.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=&#34navy&#34>I remember the early poetry of that period we wrote, we purposefully focused on shorter forms: poetry, short drama, short stories, and so forth, because, what, we were holistic, we did not-- we weren't gentlemen poets, or gentle women poets. We were organizers of our people in the streets with our people and wrote poetry whenever we had a chance.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1422.129997,1452.957374"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-84.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=&#34navy&#34>I remember one of the key activist brothers in Philadelphia saying that, 'Say, you know what's the darndest thing with Askia is that when we were, you know, having strikes and organizing community, he was out there with the rest of us. We couldn't figure out when was he writing poetry?' And I would say while you slept. While you slept. You know?</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1452.957374,1477.289962"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-85.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=&#34#008080&#34>So that's a technical question. Are you, do you work on one poem at a time? Do you work on a lot of poems simultaneously? How do you begin and how do you end?</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1477.289962,1485.385578"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-86.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=&#34navy&#34>Yeah. Yeah. Sometimes I do research, many times I do research. Either reading specific poets in terms of-- I did a lot of research in the, the epic project, reading other people's.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1482.595563,1501.599681"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-87.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=&#34navy&#34>I remember Yeats and Neruda, I read Gary Snyder and his work with the whole Buddhist thing.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1501.599681,1511.318994"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-88.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=&#34navy&#34>Allen Ginsberg and 'Howl' and so forth. Early Baraka, and so forth. And so, and of course, my friend Larry Neal, mother Margaret Walker, Gwendolyn Brooks, and so it's like a process of absorbing that. And we used to say, when we played Whist remember you'd get a hand in Whist you called a self-player? </font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1511.318994,1537.892742"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-89.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=&#34#008080&#34>Right, right.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1537.892742,1538.853239"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-90.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=&#34navy&#34>Um, see, I actually believe in what the ancient people called the muse. And when I wrote-- or when it appeared through me, 'From the Pyramids, to the Projects, from the Projects, to the Stars', the poem, it just began to flow out of me.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1538.853239,1557.560059"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-91.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=&#34navy&#34>And as it was flowing, I was just trying to keep up with it as it flowed-- because I feel that we write not only with the rational, critical mind, but with the inner mind, the inner being, what the, I guess the psychiatrists and people call the unconscious mind? Yes, and subconscious. And you know that that's the same thing with Trane and them, practicing their notes and stuff, but once Trane and them, Pharoah and them got up on that, that bandstand, or Miles, they opened up, and then they let it flow.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1557.560059,1589.302195"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-92.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=&#34navy&#34>And that's the way I tend to focus on. And then afterwards, of course, you got to rewrite and refine and polish the poem you know, and so forth. That's where your craft training comes in as well. Yes.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1589.302195,1605.127524"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-93.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=&#34navy&#34>So I don't know if, you know-- I would say that I'm very, I was very concerned before with the young writers, but as I interact with them, and speak with them, and listen to them struggle with each other, and listen to them read, I feel better and better. </font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1605.127524,1630.557823"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-94.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=&#34navy&#34>And then also, people will come and search you out and say 'brother Askia' so I say yes-- 'I was in sister Sonia's workshop in Harlem. And I-- yeah, she told me to check this', and they said, 'I just wanted to meet you'. And so I said what are you doing? 'Well, I have my second book out and I'm working on--' I said, Alright. Alright, you know.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1630.557823,1650.545306"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-95.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=&#34navy&#34>So my whole concern, I said, well in terms of our people, without being overly optimistic, we see that young people are serious about the craft, serious about the work. And I feel that our future is in good hands. Yes.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1650.545306,1669.938196"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-96.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=&#34#008080&#34>That gives you enough?</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1671.127382,1673.368542"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-97.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Yeah, it was like tight, right there at 30 minutes, I didn't say a word.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1674.557728,1678.033812"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-98.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=&#34navy&#34>Oh, very good. Very good. It was a-- </font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1678.033812,1681.006779"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-99.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[Inaudible]",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1681.006779,1682.287442"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-100.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=&#34navy&#34> Oh, okay.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1682.287442,1684.071222"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-101.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Now I just want you to sit, talk to each other. You can talk about anything, just dont talk at the same time.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1684.071222,1689.285348"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-102.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=&#34navy&#34>Oh, yeah. Yeah.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1686.33525,1688.462064"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-103.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=&#34#008080&#34>Oh okay.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1687.272878,1687.775995"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-104.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=&#34#008080&#34>[Inaudible]</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1689.285348,1693.721928"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-105.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=&#34navy&#34>Yeah, yeah. </font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1693.721928,1695.002591"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-106.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=&#34#008080&#34>No, but I' very impressed with the younger people.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1695.002591,1698.181378"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-107.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=&#34navy&#34>Yeah! And I like the way they struggle with each other, you know, they're respectful but they're like, 'Excuse me my brother, I respectfully disagree', you know?</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1698.181378,1706.688636"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-108.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=&#34#008080&#34>Yeah, yeah.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1706.688636,1707.71774"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription-annotation-109.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=&#34navy&#34>I was hoping-- there was a brother named Lee McGinnis out of Tougaloo College. And he knows Tony Medina. And he wanted to debate--</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1707.71774,1718.900668"
+        }
+      }
+    }
+  ]
+}
