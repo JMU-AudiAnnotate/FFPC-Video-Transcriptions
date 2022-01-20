@@ -7,11 +7,11 @@
       {
         "id": "https://commons.lib.jmu.edu/ffpc-2004/17/",
         "type": "Text",
-        "label": { "en": [ "Video available" ] },
+        "label": { "en": [ "Brenda Marie Osbey Interview, 9/24/2004 (FF0148)" ] },
         "format": "text/html"
       }
     ],
-        "provider": [
+    "provider": [
       {
         "id": "https://commons.lib.jmu.edu",
         "type": "Agent",
@@ -29,12 +29,6 @@
             "type": "AnnotationPage",
             "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff148/canvas-1/canvas/environment.json",
             "label": "Environment"
-          }
-          ,
-          {
-            "type": "AnnotationPage",
-            "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff148/canvas-1/canvas/transcription.json",
-            "label": "Transcription"
           }
           ,
           {
