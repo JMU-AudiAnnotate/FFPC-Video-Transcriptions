@@ -30,6 +30,12 @@
             "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/environment.json",
             "label": "Environment"
           }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas/speaker.json",
+            "label": "Speaker"
+          }
         ],
         "items": [
           {
