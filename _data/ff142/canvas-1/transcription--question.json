@@ -1,0 +1,365 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff142/canvas-1/canvas/transcription--question.json",
+  "type": "AnnotationPage",
+  "label": "Transcription, Question",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff142/canvas-1/canvas/transcription--question-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\">Well, Mr. Komunyakaa, I'm happy that you were able to come today. And I wanted to ask you about your poem, <i>Ode to a Drum</i>. I think that's one of the great classics of African American literature. How did that poem come about?</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff142/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "28.549604,48.453905"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff142/canvas-1/canvas/transcription--question-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\">I wanted to ask you about your poem. <i>Ode to a Drum</i>. I think that's one of the great classics of African American literature. How did the poem come about?</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff142/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "85.146178,95.500436"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff142/canvas-1/canvas/transcription--question-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\">I see, I see. Alright, well there's that ending, 'Kadoom. Kadoom', which is kind of paralinguistic imagery there. You know, it seems that sound is actually part of the meaning of the poem at that point. Would you want to comment on that?</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff142/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "201.35513,224.375761"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff142/canvas-1/canvas/transcription--question-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\">How do you know when a poem is finished? You have a sense of feel, or what-- how do you, how can you tell?</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff142/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "370.240112,381.700164"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff142/canvas-1/canvas/transcription--question-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\">I see. I see. So does this have to do with the kinds of surprises, the kinds of foregrounding of implicit knowledge that's inscribed in the music of Thelonious Monk, say?</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff142/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "428.545641,446.137827"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff142/canvas-1/canvas/transcription--question-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\">Okay. Do you work on more than one poem at a time? And if you do, why is that?</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff142/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "484.036421,491.978036"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff142/canvas-1/canvas/transcription--question-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\">Well, you know, you talk about-- that there's a need to remove the layers of facades and superficialities. That one's voice is already there, but you have to kind of remove the excess. Could you comment on how one does that? I'm sure it's individual but, you know--</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff142/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "572.097875,598.13431"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff142/canvas-1/canvas/transcription--question-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\">And it seems to me that that sense of craft, that sense of that concern for precision, has translated into not only your own sense of craft and dedication to craft, but also a work ethic. You know, you talk about writing every day. Could you comment on that?</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff142/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "705.597432,734.951251"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff142/canvas-1/canvas/transcription--question-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\">Okay. Alright. You know, Brathwaite's not here. You suggested that art functions as social critique, and that beauty doesn't have to be escapist. That it can confront the evils of our time with a sort of dressed up kind of representation of life. You know, how does that-- how's that reflected in your work?</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff142/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "843.721221,881.217708"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff142/canvas-1/canvas/transcription--question-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\">Sometimes it seems as though you vary your own cadence of the poem as you're reading it aloud. And that kind of fusion of the visual and sound is very, very difficult I've found, you know, reading poets over the years. So how are you able to accomplish that?</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff142/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1009.791453,1037.335789"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff142/canvas-1/canvas/transcription--question-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\">Let's say that you paint that way. How does-- I mean, you've recorded with musicians, and yesterday you talked about, you know, your collaboration with an opera. How does collaborating with other artists, particularly musicians, affect your own composition of the work?</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff142/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1124.693557,1152.438946"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff142/canvas-1/canvas/transcription--question-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\">Well one more question, because, you know, when you say you've already written the poem before, well, does it affect the way that you read it? When you--</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff142/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1237.384071,1248.039909"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff142/canvas-1/canvas/transcription--question-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\">Yeah, I've talked to a number of people who collaborated, and it's interesting to hear different kinds of responses, and depending on who you talk to, you get different kinds of conceptualizations. And, but I thought you do that very, very well. Well, where do you see, you know, Black poetry going from here? Who are some of the younger poets that that you like?</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff142/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1266.637363,1300.514886"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff142/canvas-1/canvas/transcription--question-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\">And, and people of his time felt, in many ways-- had very similar views about his music and other people who interpreted the blues idiom in the way that he did. Very similar to comments that you made about about hip hop or rap. How would you, how would you counter that?</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff142/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1406.470106,1430.294952"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff142/canvas-1/canvas/transcription--question-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\">Okay. How do you think African American poetry has influenced poets, writers, and ordinary folks in the African diaspora?</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff142/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1481.965714,1493.224713"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff142/canvas-1/canvas/transcription--question-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\">So study is implicit in poetry. One final question. Gwendolyn Brooks said, 'We are each other's/ harvest:/ We are each other's/ business:/ We are each other's/ magnitude and bond.' At the Furious Flower conference ten years ago, there was a sense of being bonded into a collective. In what ways is this true today, And in what ways has it changed?</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff142/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1585.608819,1616.973173"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff142/canvas-1/canvas/transcription--question-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\">Well, what are you working on now?</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff142/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1848.084228,1850.798451"
+        }
+      }
+    }
+  ]
+}
