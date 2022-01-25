@@ -1,0 +1,113 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff143/canvas-1/canvas/transcription--question.json",
+  "type": "AnnotationPage",
+  "label": "Transcription, Question",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff143/canvas-1/canvas/transcription--question-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\">Could you talk about that a little bit? How have there been those difficulties?</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff143/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "37.604677,44.579365"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff143/canvas-1/canvas/transcription--question-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\">And I thought about the theme of the conference, at least the sub-theme, 'Cross Pollination in the Diaspora', because we have to understand that our poetry has stretched far beyond our boundaries, and has impacted many, many people. And I know that your poetry has done that, because you are affectionately called the poet of the universe. And why do you think people call you that?</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff143/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "297.535244,324.122384"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff143/canvas-1/canvas/transcription--question-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\">What was the cultural moment for you, when you knew that you were going to be a writer?</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff143/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "922.486056,926.690928"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff143/canvas-1/canvas/transcription--question-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\">And, what was the impetus for that poem? It's a very painful poem. A colleague of mine, walked out of the auditorium and was visibly moved, and told my husband, he just thought that was one of the most powerful poems he'd ever heard read.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff143/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1181.006432,1198.335137"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff143/canvas-1/canvas/transcription--question-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\">Okay. Alright. Well, let's go to the very last question that I think you you've spoken to. 'We are each other's harvest:/ We are each other's business:/ We are each other's magnitude and bond.'</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff143/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2040.899027,2055.496493"
+        }
+      }
+    }
+  ]
+}
