@@ -1,0 +1,302 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff146/canvas-1/canvas/transcription--question.json",
+  "type": "AnnotationPage",
+  "label": "Transcription, Question",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff146/canvas-1/canvas/transcription--question-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\">Okay. Kwame, Tell me. Your poem 'Ward 21'. It was written for your brother. It seems like that would have been a painful poem to write.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff146/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "22.711647,36.680315"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff146/canvas-1/canvas/transcription--question-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\">So has he read the poems?</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff146/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "121.045038,122.652942"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff146/canvas-1/canvas/transcription--question-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\">When you wrote it, I mean, did you have any idea of how it would be received outside of your family?</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff146/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "225.257329,231.538205"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff146/canvas-1/canvas/transcription--question-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\">Well, speaking of organizing books, etc. Correct me if I'm wrong, but you've published 12 poetry books?</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff146/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "279.272861,288.367569"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff146/canvas-1/canvas/transcription--question-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\">So... What's up with that? How is it, How do you, how many projects are you working on generally at the same time?</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff146/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "313.239837,322.133557"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff146/canvas-1/canvas/transcription--question-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\">So, now in your experience working with music-- I was reading your biography. And there's a few things I had questions about, like, how has the guitar inflected your writing?</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff146/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "475.663285,490.913251"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff146/canvas-1/canvas/transcription--question-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\">How old were you at the time?</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff146/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "526.061032,526.940355"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff146/canvas-1/canvas/transcription--question-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\">And your father was a writer as well?</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff146/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "536.512409,538.070067"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff146/canvas-1/canvas/transcription--question-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\">And one thing that I've noticed often in your biographies is a reference to the first time you heard 'Natty Dread'. Could you tell us about that?</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff146/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "602.662593,611.204584"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff146/canvas-1/canvas/transcription--question-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\">Well, how would you say, I guess I would say the Afro-Caribbean literary tradition, has affected the African American literary tradition and vice versa?</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff146/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "867.464316,878.82014"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff146/canvas-1/canvas/transcription--question-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\">So how did you your perspective change in terms of literature? Did your perspective change at all when you came?</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff146/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1077.999273,1083.476196"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff146/canvas-1/canvas/transcription--question-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\">Well, how do you think-- Do you think your poetry has influenced other poets? Or how do you think--?</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff146/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1218.012556,1226.253065"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff146/canvas-1/canvas/transcription--question-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\">How do you think, since the last Furious Flower happened ten years ago. And it was a watershed event in the African American literary community. How do you think that community has changed in that ten years? And do you foresee any changes in the next five to ten years?</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff146/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1294.56387,1318.707556"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff146/canvas-1/canvas/transcription--question-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\">Right? I mean, do you foresee perhaps more collectives occurring like Cave Canem, or more organizations such as Cave Canem happening perhaps not, if not in the United States perhaps in other parts of the world?</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff146/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1544.592973,1561.073991"
+        }
+      }
+    }
+  ]
+}
