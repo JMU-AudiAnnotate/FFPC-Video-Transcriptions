@@ -33,6 +33,18 @@
           ,
           {
             "type": "AnnotationPage",
+            "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription.json",
+            "label": "Transcription"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/transcription--question.json",
+            "label": "Transcription, Question"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
             "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff149/canvas-1/canvas/speaker.json",
             "label": "Speaker"
           }
