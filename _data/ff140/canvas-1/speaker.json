@@ -1,0 +1,2549 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker.json",
+  "type": "AnnotationPage",
+  "label": "Speaker",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\"><b>Daryl Cumber Dance</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "9.259836,15.141871"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"navy\"><b>Velma Pollard</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "16.539581,20.383288"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\"><b>Daryl Cumber Dance</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "24.285231,32.787975"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"navy\"><b>Velma Pollard</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "33.661544,64.760619"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\"><b>Daryl Cumber Dance</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "64.236476,65.983616"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"navy\"><b>Velma Pollard</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "65.750663,67.090137"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\"><b>Daryl Cumber Dance</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "67.090136,74.719311"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"navy\"><b>Velma Pollard</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "75.476403,143.556587"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\"><b>Daryl Cumber Dance</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "143.556586,150.021001"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"navy\"><b>Velma Pollard</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "149.205669,193.932428"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\"><b>Daryl Cumber Dance</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "193.932427,247.045453"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"navy\"><b>Velma Pollard</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "246.8125,255.839386"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\"><b>Daryl Cumber Dance</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "254.55815,258.227143"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"navy\"><b>Velma Pollard</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "257.237096,305.458133"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\"><b>Daryl Cumber Dance</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "305.458132,310.583074"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"navy\"><b>Velma Pollard</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "310.583073,366.84095"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\"><b>Daryl Cumber Dance</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "366.840949,367.889233"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"navy\"><b>Velma Pollard</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "367.481566,368.413375"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-18.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\"><b>Daryl Cumber Dance</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "368.413374,374.936027"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-19.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"navy\"><b>Velma Pollard</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "374.936026,489.257155"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-20.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\"><b>Daryl Cumber Dance</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "398.58064,399.628925"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-21.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"navy\"><b>Velma Pollard</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "400.327779,437.949507"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-22.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\"><b>Daryl Cumber Dance</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "436.202367,437.949507"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-23.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"navy\"><b>Velma Pollard</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "437.949506,489.257155"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-24.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\"><b>Daryl Cumber Dance</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "489.257154,502.768363"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-25.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"navy\"><b>Velma Pollard</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "501.894793,502.768363"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-26.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\"><b>Daryl Cumber Dance</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "502.768362,513.425911"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-27.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"navy\"><b>Velma Pollard</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "513.42591,596.356775"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-28.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\"><b>Daryl Cumber Dance</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "596.356774,603.927711"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-29.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"navy\"><b>Velma Pollard</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "599.851052,604.80128"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-30.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\"><b>Daryl Cumber Dance</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "604.801279,614.410545"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-31.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"navy\"><b>Velma Pollard</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "614.410544,693.148275"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-32.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\"><b>Daryl Cumber Dance</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "693.148274,697.283171"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-33.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"navy\"><b>Velma Pollard</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "697.28317,703.339919"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-34.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\"><b>Daryl Cumber Dance</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "703.339918,713.473325"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-35.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"navy\"><b>Velma Pollard</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "712.075613,846.19765"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-36.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\"><b>Daryl Cumber Dance</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "846.197649,850.099594"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-37.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"navy\"><b>Velma Pollard</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "849.808403,895.932874"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-38.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\"><b>Daryl Cumber Dance</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "895.932873,899.543628"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-39.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"navy\"><b>Velma Pollard</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "899.194199,901.174291"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-40.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\"><b>Daryl Cumber Dance</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "900.766624,901.523718"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-41.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"navy\"><b>Velma Pollard</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "901.523717,930.40975"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-42.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\"><b>Daryl Cumber Dance</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "930.409749,935.127025"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-43.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"navy\"><b>Velma Pollard</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "934.428168,935.359977"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-44.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\"><b>Daryl Cumber Dance</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "935.359976,939.611348"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-45.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"navy\"><b>Velma Pollard</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "939.611347,954.46203"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-46.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\"><b>Daryl Cumber Dance</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "955.102646,958.655163"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-47.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"navy\"><b>Velma Pollard</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "958.655162,1061.328698"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-48.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\"><b>Daryl Cumber Dance</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1061.328697,1062.726409"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-49.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"navy\"><b>Velma Pollard</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1062.726408,1088.292876"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-50.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\"><b>Daryl Cumber Dance</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1087.419306,1092.48601"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-51.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"navy\"><b>Velma Pollard</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1089.748825,1092.48601"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-52.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\"><b>Daryl Cumber Dance</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1092.486009,1098.076855"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-53.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"navy\"><b>Velma Pollard</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1098.076854,1101.338181"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-54.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\"><b>Daryl Cumber Dance</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1101.33818,1141.17295"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-55.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"navy\"><b>Velma Pollard</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1138.668716,1230.451752"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-56.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\"><b>Daryl Cumber Dance</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1230.451751,1241.808156"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-57.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"navy\"><b>Velma Pollard</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1241.808155,1350.654915"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-58.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\"><b>Daryl Cumber Dance</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1350.18901,1351.761436"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-59.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"navy\"><b>Velma Pollard</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1351.761435,1357.701709"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-60.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\"><b>Daryl Cumber Dance</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1357.701708,1367.485687"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-61.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"navy\"><b>Velma Pollard</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1367.485686,1370.339347"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-62.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\"><b>Daryl Cumber Dance</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1370.339346,1376.862"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-63.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"navy\"><b>Velma Pollard</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1373.484196,1378.434425"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-64.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<b>Speaker Unknown</b>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1378.434424,1381.113371"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-65.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"navy\"><b>Velma Pollard</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1381.11337,1474.119403"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-66.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\"><b>Daryl Cumber Dance</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1473.595261,1474.876497"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-67.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"navy\"><b>Velma Pollard</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1474.527068,1500.151774"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-68.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\"><b>Daryl Cumber Dance</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1500.151773,1513.954172"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-69.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"navy\"><b>Velma Pollard</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1511.216987,1686.455028"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-70.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\"><b>Daryl Cumber Dance</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1686.455027,1688.842785"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-71.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"navy\"><b>Velma Pollard</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1687.794501,1699.383857"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-72.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\"><b>Daryl Cumber Dance</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1698.393811,1699.383857"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-73.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"navy\"><b>Velma Pollard</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1699.383856,1709.983167"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-74.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\"><b>Daryl Cumber Dance</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1709.28431,1723.319661"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-75.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"navy\"><b>Velma Pollard</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1722.73728,1724.542658"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-76.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\"><b>Daryl Cumber Dance</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1723.90204,1754.651687"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-77.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"navy\"><b>Velma Pollard</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1754.651686,1767.114612"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-78.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\"><b>Daryl Cumber Dance</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1767.114611,1768.337609"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-79.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"navy\"><b>Velma Pollard</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1768.337608,1788.837373"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-80.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\"><b>Daryl Cumber Dance</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1788.837372,1790.700988"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-81.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"navy\"><b>Velma Pollard</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1790.700987,1836.417792"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-82.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\"><b>Daryl Cumber Dance</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1835.951887,1838.164931"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-83.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"navy\"><b>Velma Pollard</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1837.524312,1867.69158"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-84.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\"><b>Daryl Cumber Dance</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1866.876246,1868.041007"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-85.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<b>Speaker Unknown</b>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1866.876247,1882.600499"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-86.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\"><b>Daryl Cumber Dance</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1882.600498,1892.209763"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-87.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"navy\"><b>Velma Pollard</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1892.209762,1893.258047"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-88.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\"><b>Daryl Cumber Dance</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1893.258046,1896.169945"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-89.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"navy\"><b>Velma Pollard</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1896.461134,1898.61594"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-90.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\"><b>Daryl Cumber Dance</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1898.266511,1899.314795"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-91.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<b>Speaker Unknown</b>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1899.314794,1900.828982"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-92.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\"><b>Daryl Cumber Dance</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1900.59603,1901.702552"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-93.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<b>Speaker Unknown</b>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1901.702551,1906.943969"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-94.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"navy\"><b>Velma Pollard</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1904.497973,1907.701062"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-95.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<b>Speaker Unknown</b>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1907.701061,1912.418338"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-96.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\"><b>Daryl Cumber Dance</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1910.90415,1934.898193"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-97.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"navy\"><b>Velma Pollard</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1933.849908,2071.990365"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-98.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\"><b>Daryl Cumber Dance</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2071.990364,2074.319884"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-99.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"navy\"><b>Velma Pollard</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2072.572744,2150.262192"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-100.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\"><b>Daryl Cumber Dance</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2149.621573,2153.75647"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-101.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"navy\"><b>Velma Pollard</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2153.756469,2155.037705"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-102.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<b>Speaker Unknown</b>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2156.668367,2159.813219"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-103.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<b>Speaker Unknown</b>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2157.716651,2159.289077"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-104.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<b>Speaker Unknown</b>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2159.813218,2161.735071"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-105.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<b>Speaker Unknown</b>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2161.73507,2164.414018"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-106.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"navy\"><b>Velma Pollard</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2164.181065,2167.034726"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-107.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\"><b>Daryl Cumber Dance</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2165.578776,2168.898341"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-108.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"navy\"><b>Velma Pollard</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2168.607151,2183.399595"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-109.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\"><b>Daryl Cumber Dance</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2172.33438,2175.304518"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-110.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\"><b>Daryl Cumber Dance</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2184.040212,2186.195017"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-111.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"navy\"><b>Velma Pollard</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2185.962064,2191.26172"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-112.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\"><b>Daryl Cumber Dance</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2189.51458,2197.143755"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-113.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"navy\"><b>Velma Pollard</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2196.852564,2198.075562"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-114.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\"><b>Daryl Cumber Dance</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2197.667896,2199.939177"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-115.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"navy\"><b>Velma Pollard</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2199.939176,2202.035744"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-116.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\"><b>Daryl Cumber Dance</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2202.035743,2210.014346"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-117.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<b>Speaker Unknown</b>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2209.373727,2211.470295"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-118.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\"><b>Daryl Cumber Dance</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2210.014345,2211.470295"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-119.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<b>Speaker Unknown</b>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2211.703246,2213.217434"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/speaker-annotation-120.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<b>Speaker Unknown</b>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2212.169149,2213.217434"
+        }
+      }
+    }
+  ]
+}
