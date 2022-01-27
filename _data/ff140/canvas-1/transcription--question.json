@@ -1,0 +1,407 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/transcription--question.json",
+  "type": "AnnotationPage",
+  "label": "Transcription, Question",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/transcription--question-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\">Velma, tell me what it means to you as a poet, and as a West Indian poet, to be a part of this Furious Flower conference.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "24.285232,32.787975"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/transcription--question-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\">Have you personally been affected by African American poets and poetry, in your own development as a poet? </font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "67.090137,74.719311"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/transcription--question-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\">Wonderful. Could you tell me about other influences, early influences, family, place, home, school.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "143.556587,150.021001"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/transcription--question-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\">Well in later years tell me about interactions. I know you've collaborated, </font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "305.458133,310.583074"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/transcription--question-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\">I'm sorry, do you remember where you were when you found out that Derek was a Nobel Laureate?</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "368.413375,374.936027"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/transcription--question-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\">Talk a little bit about responses from so called, 'First World' publishers and critics and so forth to either your own word or other--</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "502.768363,513.425911"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/transcription--question-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\">Velma, let's talk a little bit about your creative process. I remember once you told me you started out writing everything down on a yellow pad. Is that still the way you work?</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "604.80128,614.410545"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/transcription--question-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\">But when you say, when you had less time for yourself are you speaking of when you had a family?</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "693.148275,697.283171"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/transcription--question-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\">Would you share with us one of your favorite poems and tell us a little something about its history and its composition?</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "703.339919,713.473325"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/transcription--question-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\">Is that an autobiographical poem?</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "846.19765,850.099594"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/transcription--question-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\">Is it simply that you've moved on to another period so that you aren't quite the feminist?</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "930.40975,935.127025"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/transcription--question-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\">Okay. And talk a little bit about Anansi, and using that--</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "955.102647,958.655163"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/transcription--question-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\">But one in particular, I want to ask you about though you may say something generally about the subject matter and your interest in the kind of subject matter that we see in your poems more recently. But one poem, <i>We Are Our Grandmother's</i> concludes, 'I know that I am grand'. Talk a little bit about what you're saying there. </font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1120.498472,1141.17295"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/transcription--question-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\">You once said that Gran is an excuse to 'big up' a strong female symbol of Jamaican peasantocracy. How important do you see that still, in Jamaican society?</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1230.451752,1241.808156"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/transcription--question-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\">Well, speaking of your sister, we certainly have to get to that famous writer as well. And I'd love for you to share my favorite story, about...</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1357.701709,1367.485687"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/transcription--question-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\">Tell me about the two of you as writers. Do you often give feedback regarding manuscripts to each other? Or does she not dare that you get your hands on another one of hers before she decides what to do with it?</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1500.151774,1513.954172"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/transcription--question-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\">Certainly one of the poets. Are you, by and large, forced to go abroad to America or to Canada or to England to have certain kinds of opportunities and support? Economic support. Is it very difficult? Is this why so many of the writers, most of them indeed, live else-- Many of them certainly live elsewhere for much of their careers?</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1723.902041,1754.651687"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/transcription--question-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\">And then you can get that into this too. Okay. Velma, as someone who's-- mother, grandmother, who's worked as an educator, a teacher, a dean, someone who is a poet, a short story writer, a novelist, a linguist, where do you find the time? And how do you fit all of these into your schedule? </font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1910.904151,1934.898193"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas/transcription--question-annotation-18.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\">So you may be working on five or six at a time?</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff140/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2071.990365,2074.319884"
+        }
+      }
+    }
+  ]
+}
