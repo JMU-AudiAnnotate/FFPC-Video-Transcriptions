@@ -33,12 +33,6 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff010/canvas-1/canvas/transcription--song.json",
-            "label": "Transcription, Song"
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff010/canvas-1/canvas/transcription--poem.json",
             "label": "Transcription, Poem"
           }
