@@ -119,7 +119,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "<font color=\"#f1c232\"><b>Class</b></font>",
+        "value": "<font color=\"#ad8301\"><b>Class</b></font>",
         "format": "text/plain"
       },
       "target": {
@@ -2072,7 +2072,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "<font color=\"#f1c232\"><b>Alicia</b></font>",
+        "value": "<font color=\"#ad8301\"><b>Alicia</b></font>",
         "format": "text/plain"
       },
       "target": {
