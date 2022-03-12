@@ -61,7 +61,7 @@
                 "body": {
                   "id": "https://apps.lib.jmu.edu/audiannotate/FF148.mp3",
                   "type": "Sound",
-                  "format": "audio/mp3",
+                  "format": "audio/wav",
                     "duration": 2377
                 },
                 "target": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff148/canvas-1/canvas"
