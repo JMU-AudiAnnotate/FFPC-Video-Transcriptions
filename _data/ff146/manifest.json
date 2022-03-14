@@ -7,7 +7,7 @@
       {
         "id": "https://commons.lib.jmu.edu/ffpc-2004/15/",
         "type": "Text",
-        "label": { "en": [ "Kwame Dawes Interview Video, 9/25/2004 (FF146)" ] },
+        "label": { "en": [ "Kwame Dawes Interview, 9/25/2004 (FF146)" ] },
         "format": "text/html"
       }
     ],
@@ -59,9 +59,9 @@
                 "type": "Annotation",
                 "motivation": "painting",
                 "body": {
-                  "id": "https://apps.lib.jmu.edu/audiannotate/FF146.mp3",
-                  "type": "Sound",
-                  "format": "audio/mp3",
+                  "id": "https://apps.lib.jmu.edu/audiannotate/FF146.mp4",
+                    "type": "Video",
+                    "format": "video/mp4",
                     "duration": 1923
                 },
                 "target": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff146/canvas-1/canvas"
