@@ -3,6 +3,10 @@
     "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff153/manifest.json",
     "type": "Manifest",
     "label": { "en": [ "Joanne V. Gabbin Interview, 9/24/2004 (FF153)" ] },
+    "requiredStatement": {
+        "label": { "en": [ "Copyright Statement" ] },
+        "value": { "en": [ "Copyright for official University records is held by James Madison University; all other copyright is retained by the authors of items in these papers, or their descendants, as stipulated by United States copyright law."] }
+    },
     "homepage": [
       {
         "id": "https://commons.lib.jmu.edu/ffpc-2004/22/",
