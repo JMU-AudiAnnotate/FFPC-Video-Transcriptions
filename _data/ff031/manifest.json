@@ -65,9 +65,9 @@
                 "type": "Annotation",
                 "motivation": "painting",
                 "body": {
-                  "id": "https://apps.lib.jmu.edu/audiannotate/FF031.mp3",
-                  "type": "Sound",
-                  "format": "audio/mp3",
+                  "id": "https://apps.lib.jmu.edu/audiannotate/FF031.mp4",
+                    "type": "Video",
+                    "format": "video/mp4",
                     "duration": 3490
                 },
                 "target": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031/canvas-1/canvas"
