@@ -3,7 +3,11 @@
     "id": "https://example.com/collection.json",
     "type": "Collection",
     "label": { "en": [ "Furious Flower Poetry Center Transcriptions" ] },
-    "summary": { "en": [ "" ] },
+    "summary": { "en": [ "Interactive annotations and introductory matter associated with Furious Flower Poetry Center event video recordings, part of the Mellon funded AudiAnnotate project" ] },
+    "requiredStatement": {
+        "label": { "en": [ "Attribution" ] },
+        "value": { "en": [ "Provided by James Madison University Libraries"] }
+    }
     "items": [
     ]
 }
