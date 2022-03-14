@@ -7,7 +7,7 @@
       {
         "id": "https://commons.lib.jmu.edu/ffpc-2004/22/",
         "type": "Text",
-        "label": { "en": [ "Joanne V. Gabbin Interview Video, 9/24/2004 (FF153)" ] },
+        "label": { "en": [ "Joanne V. Gabbin Interview, 9/24/2004 (FF153)" ] },
         "format": "text/html"
       }
     ],
@@ -59,9 +59,9 @@
                 "type": "Annotation",
                 "motivation": "painting",
                 "body": {
-                  "id": "https://apps.lib.jmu.edu/audiannotate/FF153.mp3",
-                  "type": "Sound",
-                  "format": "audio/mp3",
+                  "id": "https://apps.lib.jmu.edu/audiannotate/FF153.mp4",
+                    "type": "Video",
+                    "format": "video/mp4",
                     "duration": 1422
                 },
                 "target": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff153/canvas-1/canvas"
