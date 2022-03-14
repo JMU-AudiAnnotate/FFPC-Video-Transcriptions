@@ -7,7 +7,7 @@
       {
         "id": "https://commons.lib.jmu.edu/ffpc-2004/14/",
         "type": "Text",
-        "label": { "en": [ "Major Jackson Interview Video, 9/23/2004 (FF145)" ] },
+        "label": { "en": [ "Major Jackson Interview, 9/23/2004 (FF145)" ] },
         "format": "text/html"
       }
     ],
@@ -59,9 +59,9 @@
                 "type": "Annotation",
                 "motivation": "painting",
                 "body": {
-                  "id": "https://apps.lib.jmu.edu/audiannotate/FF145.mp3",
-                  "type": "Sound",
-                  "format": "audio/mp3",
+                  "id": "https://apps.lib.jmu.edu/audiannotate/FF145.mp4",
+                    "type": "Video",
+                    "format": "video/mp4",
                     "duration": 1569
                 },
                 "target": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff145/canvas-1/canvas"
