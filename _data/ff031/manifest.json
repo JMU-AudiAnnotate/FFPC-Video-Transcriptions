@@ -2,12 +2,12 @@
     "@context": "http://iiif.io/api/presentation/3/context.json",
     "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031/manifest.json",
     "type": "Manifest",
-    "label": { "en": [ "FF031" ] },
+    "label": { "en": [ "FF031_African American Poetry and the Vernacular Matrix" ] },
     "homepage": [
       {
         "id": "https://commons.lib.jmu.edu/ffpc-1994/4/",
         "type": "Text",
-        "label": { "en": [ "FF031" ] },
+        "label": { "en": [ "FF031_African American Poetry and the Vernacular Matrix" ] },
         "format": "text/html"
       }
     ],
