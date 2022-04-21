@@ -1,0 +1,953 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas/transcription--poem.json",
+  "type": "AnnotationPage",
+  "label": "Transcription, Poem",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas/transcription--poem-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#438d22\">In the recent anthology from Harper Collins Press, so if you're interested in a character you can find out a little bit more about it. About her rather. \"Witnessing the vernacular project\", Alma said into the microphone, ''The Black Back-ups', by Kate Rushin'. She stepped around the table, a stack of photocopies held lightly in her arm and, smiling now, she divided the pile among several people sitting in the first row of chairs in the small lecture hall, indicating that each should take a copy and pass the rest on.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "4.750015,36.87933"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas/transcription--poem-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#438d22\">Had 'project' sounded a little pretentious, she wondered. She had rejected aspects of the vernacular as conventional beyond bearing. 'Too white boy,' Thelma had called it and 'vernacular element-- elements' had sounded well, too elementary, especially before this audience of literary scholars.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "37.599838,57.106922"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas/transcription--poem-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#438d22\">There had been no cries of outrage when she announced her title of course-- Alma had the grace to laugh at herself-- but, she observed silently, there had been no other reactions either. She resumed her seat behind the table with the other panelists, folded her hands atop it and looked out at the audience, saying nothing. </font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "57.106922,75.199675"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas/transcription--poem-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#438d22\">It wasn't unheard of for historians to talk about poetry and culture. Though, Alma admitted, they usually did so uninvited by literary scholars, who seemed at this blush anyway to be less territorial than historians-- which Alma was, and apparently better known than she thought-- or philosophers for that matter.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "75.199675,94.253106"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas/transcription--poem-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#438d22\">Still, the invitation to talk about the vernacular, common everyday speech, and Afro-American culture at a national conference on Afro-American poetry had come as a surprise to her. She was a Victorianist by training and Afro-Americanist almost by default. Of course, much of her work on the Diaspora was drawn from unwritten sources, oral tellings, a, a so-called vernacular source.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "94.46659,120.7251"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas/transcription--poem-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#438d22\">Her lips twisted wryly, vernacular was from the Latin word 'vernaculus', meaning 'domestic' according to Webster, its root word 'verna' meant home-born slave. The African sources of her work were not from slaves, their language was not common or every day, though it was spoken and in some cases never written down until she transcribed it.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "120.7251,142.980788"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas/transcription--poem-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#438d22\">Only wealthy Africans or those otherwise renowned were named in the accounts passed on by word-of-mouth and retold and sung in each generation. Oral culture would always come out on the short end of the stick when pitted against written records, Alma thought glumly. It was only a poem because it was written. If it didn't work on the page, it didn't work at all. If it could not be recorded, it didn't exist beyond the moment.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "142.980788,168.22525"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas/transcription--poem-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#438d22\">The only thing, Alma thought again, that had saved negros from extinction was radio and records, which would also be the instrument of our destruction, for hadn't records especially laid bare the very heart of the culture for every enterprising white boy in the world to bleed? 'Negro' was the common everyday speech of America, and any poetry that called itself African American couldn't help but be steeped in it.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "168.22525,192.882631"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas/transcription--poem-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#438d22\">Vernacular in that old sense, was an apt description of New World Africans, those Afro-Brazilians and Afro-Cubans, Afro Americans descended from the kidnapped and enslaved: verna, home-born slave, and thus the continuing binary between slave and master. Seemed to make little difference that they were also descended from the slave owners too, as well as the slave, by culture if not by actual blood.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "192.882631,218.981028"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas/transcription--poem-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#438d22\">Her history, the very intellectual tradition in which she labored, always came back to slavery. And, historian though she was, Alma was tired of slavery. Took too much time in the conversation to review the century-old horrors, but one could not assume that everyone knew them or understood that slavery affected people's lives long after its abolition. Thank goodness this audience would know all that.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "218.981028,243.264812"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas/transcription--poem-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#438d22\">Still, no one in it had yet spoken. Alma looked down at the paper before her. 'Kate Rushin, 'The Black Back-ups'. This is dedicated to Mary Clayton, Cissy Hous--', and was caught as she had been on first reading by Clayton's name hearing that powerful alto bellowing 'got a case of the steam ro-o-o-o-ola'.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "243.264812,266.374436"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas/transcription--poem-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#438d22\">The word drawn out, then the voice fading to silence. 'Tap, tap', a cowbell beaten by a drumstick. 'Three, four', a lone off mic male voice: 'bluuuuues'. Alma tore her eyes away lest she be drawn completely into the world of the poem. Neither project nor element seemed an adequate description of the wild invention and fusion that seemed renewed and expanded at each reading of the poem.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "266.374436,293.326768"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas/transcription--poem-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#438d22\">No, Alma told herself now, 'project' was both mask-on-image and buzzword and she could not help but be pleased with her title. If she let it, the names in the poem would draw her on as they must now be drawing the audience past the dedication into narrative plaint so widely voiced it was now almost formula.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "293.326768,314.248182"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas/transcription--poem-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#438d22\">Bump up against old ironies cast in a new light, half forgotten memories revealed now as rites of passage, phrases playfully turned and twisted, the reader made into part of the chorus-- not the doo-wop girls the white boys rave about but the girls who sang back-up on 'There is Something on Your Mind'. The parody: do do do doo doo, do do do doo doo.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "314.248182,336.930838"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas/transcription--poem-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#438d22\">Yes, Alma told herself. Even nodded a little. There would be plenty of discussion when they finished reading. Smi- smiling slightly, she leaned forward. Thelma had actually thought she was doing Alma a favor when she'd suggested Alma's name for this panel. Thelma wrote about the broad range of Black woman's literature, though in recent years, she had focused her attention on the rich turn-of-the-century period, and the first literary outpourings of the free people.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "336.930838,362.922493"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas/transcription--poem-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#438d22\">Alma had some interest in the period-- had met Thelma at a couple of conferences and been drawn by the sharp womanist analysis the sister brought to every discussion. Alma had temporized about the invitation. She read some poetry of course, and fiction, but to talk about either one to an audience of people who talked and wrote about them for a living, held no appeal to her. She would check her schedule, she told the voice on the phone, get back to them.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "362.922493,389.074261"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas/transcription--poem-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#438d22\">She called Thelma. 'Just talk about what you know', Thelma said. Non-literary sources of cultural documentation and occupa- and academic scholarship sounded dull as dust at a poetry conference, Alma objected. 'Then just do a conventional history. After all, history is your thing', outlining uses of the vernacular and literary poetry, a development with which Alma was at least somewhat familiar.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "389.074261,414.15861"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas/transcription--poem-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#438d22\">Identifying vernacular idioms and literate sources was a way of documenting traditionalist sentiment otherwise unrecorded among pre-literate peoples. And Alma had began her research with Lucy Terry Prince: 'Eunice Allen see the Indians coming,/ And hope to save herself by running,// And had not her petticoats stopped her/, The awful creatures had not catched her,/ and Tommy hawked her on the ground for dead'.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "414.15861,439.082846"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas/transcription--poem-annotation-18.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#438d22\">Alma's lips quirked at the grim humour of the remembered lines, though it taken a graduate student to make her see that humor in the rough rhythms of Terry's lines. Her notes highlighted Paul Laurence Dunbar's contributions 'in removing', as his contemporary James Weldon Johnson had said, 'much of the coarse negro-ness' from the so-called 'negro dialect' coined by whites at the turn of the century. </font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "439.082846,463.740227"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas/transcription--poem-annotation-19.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#438d22\">And she contrasted him with his contemporary James Weldon Johnson, who had taken the process even further, preparing a field for the authentic dictions of Langston Hughes and Sterling Brown. And so on, and so forth.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "463.740227,482.473432"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas/transcription--poem-annotation-20.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#438d22\">Even now, Alma was a little saddened by the musical about Paul Laurence Dunbar and James Weldon Johnson's: the time that each of these had spent on Broadway that had never been written, would probably never be, at least in her lifetime, written. Nor would the tragedy of split literary persona-- of their split, of the split literary persona, that neither they nor their lineal descendant Sterling Brown had ever overcome.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "482.473432,509.799361"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas/transcription--poem-annotation-21.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#438d22\">One voice to speak for the people-- the folk who can't make the book talk for themselves-- another 'standard voice' to speak for little-old-college-educated-me. She would never see a performance of 'Ask Your Mama', or the animated feature that should have been made from Montage on a Dream Deferred. Alma lamented and played the blues while she read, took notes, wrote, but convention hadn't worked. Not even when she fell back on style: the kind of anecdotal irreverent chitchat she and Thelma often shared about the period.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "509.799361,539.580354"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas/transcription--poem-annotation-22.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#438d22\">Papers rustled in the audience. A chair scraped. Alma looked out at the people. Maybe that was what they came for-- convention, what she should have given them. But she hadn't found the words for even that. 'You could talk about violence as vernacular', Pearl had said when Alma consulted her.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "539.580354,558.046704"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas/transcription--poem-annotation-23.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#438d22\">Pearl was a writer, novelist (little known), and journalist. She actually earned a close but stable living from the reams of opinions, interviews, features and ghosted speeches that streamed from her printer. Pearl made Alma listen to Baraka's poem For my Father-in-law, but just the mention of Amiri Baraka's name, aka Leroi Jones, made Alma uneasy.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "558.046704,580.996215"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas/transcription--poem-annotation-24.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#438d22\">Baraka was part of the madness of the 70s, coined traditions and a violent-- and a vicious chauvinism. She'd said none of this aloud, of course. Time was too short to be getting into an argument with Pearl. Besides, and this she had said aloud, Leroy did his best work in the post-Beat period, the late 50s and early 60s. 'It's the politics, isn't it? his radical Marxism?' Pearl had taunted and shoved a book open to the 'Crow, Jane' series under Alma's nose.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "580.996215,608.588998"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas/transcription--poem-annotation-25.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#438d22\">Stung, Alma retorted, 'more like sexual gluttony and narcissism'. Pearl had backed off then: 'Or, talk about jazz as both vernacular and haute couture', she'd offered in compromise, and referred Alma to Michael Harper and Yusef Komunyakaa. But Alma found no way to say what interested her about their poems, let alone what might interest a roomful of literary critics.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "608.588998,632.71267"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas/transcription--poem-annotation-26.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#438d22\">Alma tuned into spoken word. And saw even the-- and saw how even the best, especially the best of these poets, were seduced into stand-up or sang silently for whatever reason, from sight. She tried to listen to rap, but it made her feel too white. Hip hop was no substitute for song. What little she understood of the lyrics of hardcore offended and repelled her.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "632.71267,659.985228"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas/transcription--poem-annotation-27.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#438d22\">She refused to return to the blues as a matter of principle. She had never gone with a man who wore hydrate pants, nor worked in a house of the rising sun. And while she often admired this one's technique, or that one's artistry, she didn't believe that anyone who now sang of having done so, had ever-- ever had either, no matter how well they reproduced blues form.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "659.985228,681.760578"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas/transcription--poem-annotation-28.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#438d22\">Rap was the only form to evolve from contemporary circumstances. But the circumstances of which they spoke were not hers. She watched videos and went to galleries and clubs, deciding that what we mean when we said vernacular, was really what we mean when we said Black. The truth was that all of it--spoken word, hardcore, hip hop, performance, installation, whatever-- spoke to her but did not move her to speak, or at least to write the little occasional paper she had expected to produce.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "681.760578,711.808425"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas/transcription--poem-annotation-29.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#438d22\">Horace sent her a copy of the jazz poetry anthology, and she had seen in its title a fusion of low --that is, vernacular of slaves, for jazz was certainly that-- and high culture, and the so-called high culture, in less than a century in American life. She found in Rushin's poem the need for a word other than vernacular to describe the fusion she read there.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "712.929215,737.319742"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas/transcription--poem-annotation-30.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#438d22\">Freedom came out of crossbreeding between master and slave, a kind of freedom at least. If the scatting meant anything in the poem, she thought, and she couldn't be sure of that until she heard the poem performed, it invited you to see that classless, castless and egalitarian society: Freedom. Or did it just mean that these were so much false hope?</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "737.319742,759.468688"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas/transcription--poem-annotation-31.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#438d22\">Beside her, the previous speaker coughed nervously into his cupped hand. Alma turned an inquiring face to the panel moderator who was staring at her. She turned back to the audience and waited. 'Is that it?' An incredulous make voice called from the back of the room. 'Sir, did you read the poem?' she asked politely. There was some muffled laughter. Papers rustled softly and stilled as people began to read the two pages she'd handed out.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "759.468688,785.780569"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas/transcription--poem-annotation-32.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#438d22\">And?' Alma looked at the narrator expectantly. He nodded and smiled encouragingly. She leaned forward into her microphone, 'The End.' The moderator stared at her again, 'Well, you can at least read the poem'. </font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "785.780569,803.286242"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas/transcription--poem-annotation-33.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#438d22\">He seemed she noted rather peeved, which rather peeved her, as her's was the only presentation that seemed likely to stay within the strict time limits that every-- that every other panelist had casually flounted.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "803.286242,818.657077"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas/transcription--poem-annotation-34.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#438d22\">Once again, Alma stood behind the microphone. 'The Black Back-ups', she announced. For Mary Clayton, Cissy Houston, Vanetta Washington, Dawn, Carita McClellan, Rosie Farmer, Marsha Jenkins, and Carolyn Williams. This is for all the Black women who sang back-up for Elvis Presley, John Denver, James Taylor, Lou Reed, etc, etc, etc.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "818.657077,843.821482"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas/transcription--poem-annotation-35.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#438d22\">I said Hey, baby, take a walk on the wild side. I said, Hey, baby, take a walk on the wild side. And the color-- colored girls say: do do do doo doo. Do do do doo doo. Do do do doo doo.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "843.821482,861.113671"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas/transcription--poem-annotation-36.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#438d22\">This is for my great grandmother Esther, my great grandmother Addie, my grandmother called Sister, my great aunt Rachel, my aunt Hilda, my aunt Thyme, my aunt Britt-- Breda, My aunt Gladys, my aunt Helen, my aunt Ellie, my cousin Barbara, my cousin Dottie, and my great-great aunt Veen.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "861.273784,879.953619"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas/transcription--poem-annotation-37.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#438d22\">This is dedicated to all the Black women riding on buses and subways back and forth to the mainline, Haddonfield, New Jersey, Cherry Hill and Chevy Chase. This is for those women who spent their summers in Rockport, Newport, Cape Cod and Camden, Maine. This is for the women who opened bundles of dirty laundry sent home from Ivy covered campuses.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "880.140417,901.595541"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas/transcription--poem-annotation-38.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#438d22\">And the colored girls say: do do do doo doo, do do do doo doo. Jane Fox, Jane Fox, calling Jane Fox, where are you, Jane? My great aunt Rachel worked for the Foxes ever since I can remember. There was the boy whose name I never knew. And there was the girl whose name was Jane.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "901.595541,923.664431"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas/transcription--poem-annotation-39.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#438d22\">My aunt Rachel brought Jane's dresses for me to wear. Perfectly good clothes, and I should have been glad to get them. Perfectly good clothes, no matter they didn't fit quite right. Perfectly good clothes, Jane, brought home in brown paper bags with an air of accomplishment and excitement. Perfectly good clothes, which I hated. It's not that I have anything personal against you, Jane. </font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "923.664431,946.347086"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas/transcription--poem-annotation-40.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#438d22\">It's just that I felt guilty for hating those clothes. I mean, can you get to the irony of it, Jane? And the colored girls say: do do do doo doo, do do do doo doo. At school in Ohio, I swear to God, there was always somebody telling me that the only person in their whole house who listened and understood them, despite the money and the lessons, was the housekeeper.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "946.587256,972.552225"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas/transcription--poem-annotation-41.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#438d22\">And I knew it was true. But what was I supposed to say? I know it's true. I watched them getting off the train and moving slowly toward the country squire with their uniform and their shopping bag. And the closer they get to the car the more the two little kids jump and laugh, and even the dog is about to turn inside out because they just can't wait until she gets there. Edna. Edna. Wonderful Edna, but aunt Edna to me or Gram or Miss Johnson or Sister Johnson on Sundays,</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "973.139306,1000.438549"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas/transcription--poem-annotation-42.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#438d22\">and the colored girls say: do do do doo doo. This is for Hattie McDaniels, Butterfly McQueen, Ethel Waters, Sapphire, Sephronia, Ruby Begonia, Aunt Jemima, Aunt Jemima on the pancake box, Aunt Jemima on the pancake box, Aunt Jemima on the pancake box, Aunt Jemima in the pancake box. Ain't your mama on the pancake box?</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1000.438549,1025.175987"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas/transcription--poem-annotation-43.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#438d22\">Mama, mama, get off of that damn box and come home to me. And my mama leaps off of that box and she swoops down in her nurses cape which she wears on Sundays and on Wednesday night prayer meetings, and she wipes my forehead, and she fans my face for me, and she makes me a cup of tea and it don't do a thing for my real pain, except she is my mama, mama, mommy, mommy, mammy, mammy, mammy, mammy.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1025.896495,1053.00894"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas/transcription--poem-annotation-44.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#438d22\">I'd walk a mile, a million miles for one of your smiles. This is for the Black back-ups. This is for my mama and your mama, my grandma and your grandma. This is for the 1000 1000 1000 Black back-ups. And the colored girls say: do do do doo doo, do do do doo doo, do do do doo.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1053.00894,1079.160708"
+        }
+      }
+    }
+  ]
+}
