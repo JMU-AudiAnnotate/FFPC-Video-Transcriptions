@@ -2,12 +2,12 @@
     "@context": "http://iiif.io/api/presentation/3/context.json",
     "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/friday-keynote-speeches-part-2-9-30-1994/manifest.json",
     "type": "Manifest",
-    "label": { "en": [ "Friday Keynote Speeches Part 2, 9/30/1994" ] },
+    "label": { "en": [ "FF022_Friday Keynote Speeches Part 2, 9/30/1994" ] },
     "homepage": [
       {
         "id": "https://commons.lib.jmu.edu/ffpc-1994/18/",
         "type": "Text",
-        "label": { "en": [ "Friday Keynote Speeches Part 2, 9/30/1994" ] },
+        "label": { "en": [ "FF022_Friday Keynote Speeches Part 2, 9/30/1994" ] },
         "format": "text/html"
       }
     ],
