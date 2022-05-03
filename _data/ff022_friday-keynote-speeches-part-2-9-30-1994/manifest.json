@@ -23,6 +23,26 @@
         "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff022_friday-keynote-speeches-part-2-9-30-1994/canvas-1/canvas",
         "type": "Canvas",
         "duration": 3310,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff022_friday-keynote-speeches-part-2-9-30-1994/canvas-1/canvas/environment.json",
+            "label": "Environment"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff022_friday-keynote-speeches-part-2-9-30-1994/canvas-1/canvas/transcription.json",
+            "label": "Transcription"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff022_friday-keynote-speeches-part-2-9-30-1994/canvas-1/canvas/speaker.json",
+            "label": "Speaker"
+          }
+        ],
         "items": [
           {
             "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff022_friday-keynote-speeches-part-2-9-30-1994/canvas-1/paintings",
