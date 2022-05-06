@@ -1,0 +1,1100 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/speaker.json",
+  "type": "AnnotationPage",
+  "label": "Speaker",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/speaker-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='#008080'><b>Maryemma Graham</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "3.27,4.47"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/speaker-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='navy'><b>Marilyn Nelson</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "6.93,12.84"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/speaker-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='#008080'><b>Maryemma Graham</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "15.57,28.53"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/speaker-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='navy'><b>Marilyn Nelson</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "32.88,46.8"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/speaker-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='#008080'><b>Maryemma Graham</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "90.72,91.86"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/speaker-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='navy'><b>Marilyn Nelson</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "91.89,98.88"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/speaker-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='#008080'><b>Maryemma Graham</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "99.0,99.6"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/speaker-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='navy'><b>Marilyn Nelson</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "99.66,113.16"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/speaker-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='#008080'><b>Maryemma Graham</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "140.0,150.71"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/speaker-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='navy'><b>Marilyn Nelson</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "150.77,151.25"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/speaker-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='#008080'><b>Maryemma Graham</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "151.76,158.99"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/speaker-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='navy'><b>Marilyn Nelson</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "158.99,159.38"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/speaker-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='#008080'><b>Maryemma Graham</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "160.67,168.41"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/speaker-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='navy'><b>Marilyn Nelson</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "168.42,183.27"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/speaker-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='#008080'><b>Maryemma Graham</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "185.52,200.19"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/speaker-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='navy'><b>Marilyn Nelson</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "205.87,212.5"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/speaker-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='#008080'><b>Maryemma Graham</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "282.69,285.96"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/speaker-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='navy'><b>Marilyn Nelson</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "285.96,287.37"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/speaker-annotation-18.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='#008080'><b>Maryemma Graham</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "287.6,288.41"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/speaker-annotation-19.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='NONE'><b>Speaker Unknown</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "288.41,291.95"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/speaker-annotation-20.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='#008080'><b>Maryemma Graham</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "295.01,295.28"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/speaker-annotation-21.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='NONE'><b>Speaker Unknown</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "295.31,295.97"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/speaker-annotation-22.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='#008080'><b>Maryemma Graham</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "296.36,299.33"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/speaker-annotation-23.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='navy'><b>Marilyn Nelson</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "335.63,349.19"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/speaker-annotation-24.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='#008080'><b>Maryemma Graham</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "365.22,366.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/speaker-annotation-25.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='navy'><b>Marilyn Nelson</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "366.0,382.38"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/speaker-annotation-26.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='#008080'><b>Maryemma Graham</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "422.85,435.66"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/speaker-annotation-27.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='navy'><b>Marilyn Nelson</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "437.32,451.42"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/speaker-annotation-28.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='#008080'><b>Maryemma Graham</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "489.87,494.16"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/speaker-annotation-29.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='navy'><b>Marilyn Nelson</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "494.16,494.22"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/speaker-annotation-30.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='#008080'><b>Maryemma Graham</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "494.34,507.42"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/speaker-annotation-31.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='navy'><b>Marilyn Nelson</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "511.89,522.84"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/speaker-annotation-32.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='#008080'><b>Maryemma Graham</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "522.84,523.38"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/speaker-annotation-33.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='navy'><b>Marilyn Nelson</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "523.38,536.49"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/speaker-annotation-34.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='#008080'><b>Maryemma Graham</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "539.58,550.23"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/speaker-annotation-35.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='navy'><b>Marilyn Nelson</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "552.84,566.76"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/speaker-annotation-36.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='#008080'><b>Maryemma Graham</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "576.54,589.65"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/speaker-annotation-37.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='navy'><b>Marilyn Nelson</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "602.88,613.74"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/speaker-annotation-38.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='#008080'><b>Maryemma Graham</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "678.42,690.06"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/speaker-annotation-39.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='navy'><b>Marilyn Nelson</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "692.07,693.33"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/speaker-annotation-40.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='#008080'><b>Maryemma Graham</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "693.33,701.28"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/speaker-annotation-41.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='NONE'><b>Speaker Unknown</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "702.87,710.61"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/speaker-annotation-42.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='#008080'><b>Maryemma Graham</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "711.24,715.23"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/speaker-annotation-43.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='navy'><b>Marilyn Nelson</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "716.82,718.2"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/speaker-annotation-44.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='#008080'><b>Maryemma Graham</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "719.67,725.64"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/speaker-annotation-45.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='navy'><b>Marilyn Nelson</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "726.06,727.32"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/speaker-annotation-46.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='#008080'><b>Maryemma Graham</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "727.32,734.22"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/speaker-annotation-47.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='navy'><b>Marilyn Nelson</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "744.96,753.69"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/speaker-annotation-48.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='#008080'><b>Maryemma Graham</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "753.0,754.29"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/speaker-annotation-49.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='navy'><b>Marilyn Nelson</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "754.35,765.84"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/speaker-annotation-50.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='#008080'><b>Maryemma Graham</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "770.88,773.16"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/speaker-annotation-51.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='NONE'><b>Speaker Unknown</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "773.16,774.78"
+        }
+      }
+    }
+  ]
+}

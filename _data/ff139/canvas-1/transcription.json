@@ -1,0 +1,2066 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/transcription.json",
+  "type": "AnnotationPage",
+  "label": "Transcription",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/transcription-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='#008080'>--m-a  G-r-a-h-a-m.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "3.271,4.47"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/transcription-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='navy'>Marilyn Nelson. M-a-r-i-l-y-n  N-e-l-s-o-n.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "6.931,12.84"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/transcription-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='#008080'>Okay. Marilyn, let me ask you: you&#39;ve lived in New England and Lower Connecticut, though you were not born there, you&#39;re Midwesterner by birth. How do you see that part of the country</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "15.571,28.53"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/transcription-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='#008080'>influencing your work?</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "29.071,30.27"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/transcription-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='navy'>Well, the last couple of writing projects I&#39;ve done have been picking up stories from Connecticut history, actually, African American History in New England. I&#39;ve just finished writing</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "32.881,46.8"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/transcription-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='navy'>a long sequence of poems about an 18th-century slave</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "47.881,54.84"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/transcription-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='navy'>who lived in a small city in Connecticut and who, when he died-- he was owned by a doctor, and when he died the doctor prepared his skeleton, and reassembled the bones and hung the skeleton in a room</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "54.001,72.78"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/transcription-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='navy'>in his home, to be used as a teaching device. To teach people about skeletons, human bones.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "72.781,81.57"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/transcription-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='navy'>And meanwhile this man, Fortune was his name, his wife and four children were still in this household.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "81.571,90.27"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/transcription-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='#008080'>And this is in Connecticut?</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "90.721,91.86"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/transcription-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='navy'>Yes, this is in Connecticut, just before the American Revolution. So that&#39;s one, that one&#39;s just come out. And--</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "91.891,98.88"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/transcription-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='#008080'>What&#39;s the name?</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "99.001,99.6"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/transcription-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='navy'>It&#39;s called <i>Fortune&#39;s Bones</i>. And I have another project that&#39;s cooking on a back-burner now, about another man who was enslaved in the 18th century in Connecticut, and who</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "99.661,113.16"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/transcription-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='navy'>managed to purchase his own freedom and then purchased all of the members of his family, and then several other people. And is kind of a local hero. He&#39;s very highly respected.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "113.191,126.48"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/transcription-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='navy'>He died in about, oh, gosh, maybe 1790. Something like that. So I suppose what I&#39;m doing is telling local history stories.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "126.511,140.19"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/transcription-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='#008080'>So the stories that you want people to know about that part of the country, but are about Black people in that part of the country, that are important for you?</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "140.001,150.71"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/transcription-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='navy'>Yes, yes.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "150.771,151.25"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/transcription-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='#008080'>But you could you could write those stories in any part of the country, at least based on the local history of that part of the country, right?</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "151.761,158.99"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/transcription-annotation-18.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='navy'>Yes.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "158.991,159.38"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/transcription-annotation-19.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='#008080'>So in a sense, you don&#39;t fall into the sense of place. You do have sense of place, but you have sense of history, which is probably--</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "160.671,168.41"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/transcription-annotation-20.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='navy'>Yes, I suppose what it is is sense of history. In the Fortune story, I was asked to write it by a local historical museum. But I would have written it if I had been living in Kansas.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "168.421,183.27"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/transcription-annotation-21.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='#008080'>Well there is some awfully cool history. I&#39;ve noticed also that you have, I guess like many writers, moved to another genre. Your last book has been-- has won a Children&#39;s Book Award.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "185.521,200.19"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/transcription-annotation-22.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='#008080'>Can you tell me a little bit about why that decision was made? And you see doing more in the children&#39;s literature genre?</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "201.691,207.87"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/transcription-annotation-23.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='navy'>It&#39;s not really a question of genre. It&#39;s a question of marketing. The poems have not changed.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "205.871,212.5"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/transcription-annotation-24.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='navy'>Yeah, yeah. I haven&#39;t, the poems, I&#39;m still writing the same poems. I&#39;ve I haven&#39;t changed my sense of audience at all. But I&#39;ve-- for a couple of my books, I&#39;ve moved to a different publisher. And</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "212.951,229.42"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/transcription-annotation-25.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='navy'>the books are being marketed differently.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "230.501,232.39"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/transcription-annotation-26.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='navy'>And I think of this in several ways. First of all, there&#39;s a very large market for young adult books, and there are not very many poets writing, publishing for that market. And secondly, I feel the--</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "232.721,250.69"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/transcription-annotation-27.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='navy'>giving young people real poems to read is a way of encouraging them to continue, to continue to be readers of poetry.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "252.401,261.28"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/transcription-annotation-28.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='navy'>So I think I&#39;m writing for future generations of poetry readers, helping to create future poetry readers. And I think that&#39;s about-- I think that&#39;s about all I can say about it. I really don&#39;t believe</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "261.491,278.95"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/transcription-annotation-29.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='navy'>I&#39;ve changed my writing at all.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "278.951,281.71"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/transcription-annotation-30.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='#008080'>Yeah. So your-- a form, a different form in which you have placed it.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "282.691,285.96"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/transcription-annotation-31.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='navy'>Yes, yes. Yes.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "285.961,287.37"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/transcription-annotation-32.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='#008080'>Well, it--</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "287.601,288.41"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/transcription-annotation-33.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='NONE'>--Mrs. Graham, it&#39;s okay but honey, just pull your blouse, so it&#39;s not just--</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "288.411,291.95"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/transcription-annotation-34.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='NONE'>Down further, from the top.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "292.641,293.54"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/transcription-annotation-35.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='NONE'>Down further, from the top, yeah.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "293.541,294.98"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/transcription-annotation-36.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='#008080'>Oh.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "295.011,295.28"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/transcription-annotation-37.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='NONE'>It&#39;s just bunching down--</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "295.311,295.97"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/transcription-annotation-38.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='NONE'>There you go.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "295.971,296.36"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/transcription-annotation-39.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='#008080'>Oh, I can see it. Yes. Okay. Thank you for getting it.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "296.361,299.33"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/transcription-annotation-40.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='#008080'>At Furious Flower, there&#39;s a lot of discussion about regenerating tradition. And I just heard you talk about putting the tradition of poetry writing back into the-- into the schools or giving children</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "302.511,317.21"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/transcription-annotation-41.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='#008080'>poetry from the ground up as it were. So, the notion of poetry as a tradition-- is it something you grew up with? Did you grow up reading poetry? Did you [inaudible] a lot of your family, did you</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "317.211,332.57"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/transcription-annotation-42.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='#008080'>learn poems that you had to say in church, or?</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "332.571,335.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/transcription-annotation-43.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='navy'>I didn&#39;t have to say, or I didn&#39;t learn poems for church, but I grew up in a family which read poetry. And I grew up encouraged to read and write poetry when-- I was one of these</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "335.631,349.19"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/transcription-annotation-44.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='navy'>hypersensitive children. And I cried at the drop of a hat. Beautiful sunset, I would, would reduce me to tears. And my mother always told people don&#39;t worry about Marilyn, she&#39;s our poet. She&#39;s very</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "349.221,364.07"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/transcription-annotation-45.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='navy'>sensitive, she&#39;s our poet.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "364.071,365.18"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/transcription-annotation-46.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='#008080'>So they gave you that label. I see, okay, okay.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "365.221,366.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/transcription-annotation-47.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='navy'>Yes, yes, yes. So that&#39;s my sense of tradition. But one of the things I have been struggling to do in the last few years is to return to some of the traditional forms of poetry. I</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "366.001,382.38"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/transcription-annotation-48.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='navy'>mean, they&#39;re European forms, but they&#39;re traditions that for several generations of African Americans have inherited.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "382.381,392.79"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/transcription-annotation-49.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='navy'>And so I&#39;ve been writing in rhyme and meter again. And I think that&#39;s what-- I started doing it for many reasons. But one of the reasons was that I kept meeting people who would say, &quot;I used to like</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "393.091,408.48"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/transcription-annotation-50.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='navy'>poetry, but I can&#39;t tell why poems are poems now. They seem like prose to me. Whatever happened to rhyme?&quot;</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "408.481,418.41"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/transcription-annotation-51.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='navy'>So you&#39;re listening to your audience.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "418.411,419.76"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/transcription-annotation-52.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='navy'>Yeah, yeah, I&#39;m trying to, trying to.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "419.821,422.73"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/transcription-annotation-53.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='#008080'>We&#39;ve been talking today a lot about why poets write and, that is, what are the factors that figure into the process, whether it&#39;s audience or whether it&#39;s the market, so clearly you</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "422.851,435.66"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/transcription-annotation-54.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='#008080'>are paying attention to audience.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "435.661,436.92"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/transcription-annotation-55.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='navy'>To audience. It seems to me to be important to be writing for somebody. For people I-- when I was in my 20s, I had-- one of my great uncle&#39;s was the president of Kentucky State. And he</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "437.321,451.42"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/transcription-annotation-56.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='navy'>was the patriarch of the family. And I used to send him poems and I sent him a batch of poems when I was in college, I think I was about a sophomore in college. And he wrote a very sweet letter back</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "451.421,463.33"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/transcription-annotation-57.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='navy'>asking me why young poets nowadays don&#39;t write poems that people like me can understand. And I thought,</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "463.331,471.22"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/transcription-annotation-58.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='navy'>that&#39;s a really good question. Why shouldn&#39;t I be writing for someone? What kind of audience are we looking for, are we imagining if it&#39;s not this man? So I completely changed and started working hard</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "472.331,488.17"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/transcription-annotation-59.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='navy'>on writing accessible poems.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "488.171,489.82"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/transcription-annotation-60.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='#008080'>Well, the first poetry that you were writing, though, was not in this vein.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "489.871,494.16"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/transcription-annotation-61.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='navy'>No.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "494.161,494.22"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/transcription-annotation-62.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='#008080'>So were there influences that you were, you know, that you saw in that poetry where people whose work you respected-- was it the train-- the MFA program that sent you in that</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "494.341,507.42"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/transcription-annotation-63.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='#008080'>direction? What got you started in that line? And then, clearly, the shift occurs later.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "507.421,511.53"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/transcription-annotation-64.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='navy'>No, I don&#39;t have an MFA, I didn&#39;t go to a writing program. And I think it was just, I was an English major,</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "511.891,522.84"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/transcription-annotation-65.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='#008080'>Yeah. And we do teach English [inaudible].</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "522.841,523.38"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/transcription-annotation-66.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='navy'>and I was sitting in classes where we were analyzing things to death. And I was trying to write things that could be analyzed to death. And it took a while to realize that that&#39;s not</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "523.381,536.49"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/transcription-annotation-67.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='navy'>necessary.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "536.491,537.33"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/transcription-annotation-68.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='#008080'>But the critics like that, because you&#39;ve got awards, you&#39;ve got nominations for national book awards. So clearly that tradition of writing was successful for you, if you want to use</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "539.581,550.23"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/transcription-annotation-69.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='#008080'>the term success for that.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "550.231,552.24"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/transcription-annotation-70.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='navy'>Although I hope that all of my published poems-- I mean this incident that I described happened before I was publishing, and I hope that the work I&#39;ve published is accessible. I&#39;ve</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "552.841,566.76"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/transcription-annotation-71.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='navy'>really struggled with that, trying to reach out to an audience to tell my little truths to a big audience.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "566.761,575.91"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/transcription-annotation-72.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='#008080'>A loaded question: what is your sense of where Black poetry is today? I hear what you say about what you want to do in terms of audience. What&#39;s your sense of where we are today? Are</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "576.541,589.65"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/transcription-annotation-73.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='#008080'>we having a bigger impact? Are we-- do we have serious poets among us that we can look forward to another generation or so poetry, or, just how would you sum it up?</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "589.651,600.66"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/transcription-annotation-74.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='navy'>I&#39;m not sure if I can sum it up because I don&#39;t have my finger on-- you&#39;d have to have your finger on many pulses to be able to answer this question. One of the things that I think has</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "602.881,613.74"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/transcription-annotation-75.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='navy'>happened is that we, as-- if there was a movement, the Black Arts Movement, for example, it&#39;s become fragmented. Because so many, so many young poets now are studying in MFA programs where there are</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "613.741,632.49"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/transcription-annotation-76.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='navy'>only one or two African American students,</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "632.491,635.43"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/transcription-annotation-77.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='navy'>maybe one African American poet teaching them. So that we&#39;re divided, and a conference like Furious Flower is really important, because it brings people together, they&#39;re-- we need to have this kind</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "635.941,649.8"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/transcription-annotation-78.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='navy'>of communication.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "649.801,651.03"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/transcription-annotation-79.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='navy'>I&#39;ve been very, very much moved by teaching in the Cave Canem program for that reason, because it brings people together. So we have a dialogue, we can discover what we have in common, we can work</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "651.031,665.79"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/transcription-annotation-80.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='navy'>together in similar directions. I don&#39;t think we want to all be marching lockstep, but I think we can grow by exchanging ideas.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "666.001,677.82"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/transcription-annotation-81.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='#008080'>So the diffusion and dispersal effect, you think, has not necessarily been-- it may have provided good training for people but it may not have done a lot to nurture or, you know, a</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "678.421,690.06"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/transcription-annotation-82.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='#008080'>tradition of Black poetry writing.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "690.091,692.07"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/transcription-annotation-83.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='navy'>Yeah, yeah, yeah.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "692.071,693.33"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/transcription-annotation-84.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='#008080'>That&#39;s interesting. I&#39;m going to have to stop. I&#39;m enjoying this, and I wanna keep going. But I gotta stop.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "693.331,701.28"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/transcription-annotation-85.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='NONE'>Thank you. Oh, oh, if you just talk to each other, it&#39;s to get wide shots, for 30 seconds. Just talk, just say anything.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "702.871,710.61"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/transcription-annotation-86.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='#008080'>Well, I was just, I had all these other questions I wanted to ask but I don&#39;t want to ask them because she&#39;s gonna keep talking about them.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "711.241,715.23"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/transcription-annotation-87.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='navy'>No, I know you have to run though.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "716.821,718.2"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/transcription-annotation-88.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='#008080'>I asked a question about genre. But is there another form that you, you know, are thinking of writing in?</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "719.671,725.64"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/transcription-annotation-89.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='navy'>Other than poetry, or what?</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "726.061,727.32"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/transcription-annotation-90.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='#008080'>Well I mean, the poetry, as you say-- children&#39;s literature is another form, that&#39;s what I&#39;m talking about-- genre. In that sense, I don&#39;t want to use the word genre, because of the</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "727.321,734.22"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/transcription-annotation-91.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='#008080'>way you explained it. But would you do, for instance, plays? Would you want to, you know, write-- because the poet, poetic voice can also be there. And so that other genre is--</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "734.221,744.93"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/transcription-annotation-92.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='navy'>I would like to, but I have a sister who writes plays and directs them. So I&#39;ve been very careful not to step over into her territory.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "744.961,753.69"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/transcription-annotation-93.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='#008080'>Boundaries! Boundaries, boundaries.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "753.001,754.29"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/transcription-annotation-94.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='navy'>Yes, yes. We did work together on a musical and with our brother who&#39;s a musician. She wrote the book. And she wrote some of the lyrics, and I wrote some of the lyrics and he did the</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "754.351,765.84"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/transcription-annotation-95.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='navy'>music. But otherwise, I feel like I&#39;ll stay-- I&#39;ll respect our boundaries.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "765.841,770.88"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/transcription-annotation-96.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='#008080'>You&#39;ll stay where you are. Yeah. That&#39;s right, yeah.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "770.881,773.16"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas/transcription-annotation-97.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='NONE'>That is the thing with sisters, you know, you do--</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff139/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "773.161,774.78"
+        }
+      }
+    }
+  ]
+}
