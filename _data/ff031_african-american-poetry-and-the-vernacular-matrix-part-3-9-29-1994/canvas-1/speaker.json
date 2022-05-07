@@ -1,0 +1,953 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas/speaker.json",
+  "type": "AnnotationPage",
+  "label": "Speaker",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas/speaker-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='sienna'><b>Sherley Anne Williams</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1.05,9.84"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas/speaker-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='#008080'><b>Alvin Aubert</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1103.02,1115.92"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas/speaker-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='#008080'><b>Joanne V. Gabbin</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1184.64,1189.11"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas/speaker-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='brown'><b>Darrell Stover</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1189.89,1204.41"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas/speaker-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='indigo'><b>Elizabeth Alexander</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1273.86,1288.53"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas/speaker-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='darkcyan'><b>Eleanor W. Traylor</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1317.42,1331.43"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas/speaker-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='NONE'><b>Unknown Speaker</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1432.86,1442.16"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas/speaker-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='#008080'><b>Alvin Aubert</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1461.78,1478.46"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas/speaker-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='NONE'><b>Unknown Speaker</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1534.32,1535.55"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas/speaker-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='#008080'><b>Alvin Aubert</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1536.18,1546.14"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas/speaker-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='teal'><b>Shahara Brookins Drew</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1656.54,1664.07"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas/speaker-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='sienna'><b>Sherley Anne Williams</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1711.11,1725.18"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas/speaker-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='#008080'><b>Alvin Aubert</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1780.56,1789.05"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas/speaker-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='chocolate'><b>Adam David Miller</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1799.61,1810.29"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas/speaker-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='#008080'><b>Alvin Aubert</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1837.41,1838.85"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas/speaker-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='chocolate'><b>Adam David Miller</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1838.21,1847.33"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas/speaker-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='sienna'><b>Sherley Anne Williams</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1847.97,1858.92"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas/speaker-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='indigo'><b>Elizabeth Alexander</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2005.0,2020.81"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas/speaker-annotation-18.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='sienna'><b>Sherley Anne Williams</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2111.11,2121.34"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas/speaker-annotation-19.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='#008080'><b>Alvin Aubert</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2190.82,2204.35"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas/speaker-annotation-20.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='sienna'><b>Sherley Anne Williams</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2279.38,2287.93"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas/speaker-annotation-21.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='darkcyan'><b>Eleanor W. Traylor</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2290.86,2298.72"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas/speaker-annotation-22.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='#008080'><b>Alvin Aubert</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2305.65,2309.19"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas/speaker-annotation-23.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='darkcyan'><b>Eleanor W. Traylor</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2309.82,2321.61"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas/speaker-annotation-24.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='#008080'><b>Alvin Aubert</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2522.04,2524.86"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas/speaker-annotation-25.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='sienna'><b>Sherley Anne Williams</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2525.4,2526.36"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas/speaker-annotation-26.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='#008080'><b>Alvin Aubert</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2526.36,2531.16"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas/speaker-annotation-27.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='NONE'><b>Unknown Speaker</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2531.49,2531.82"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas/speaker-annotation-28.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='#008080'><b>Alvin Aubert</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2532.87,2533.8"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas/speaker-annotation-29.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='NONE'><b>Unknown Speaker</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2536.29,2554.14"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas/speaker-annotation-30.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='#008080'><b>Alvin Aubert</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2599.47,2604.3"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas/speaker-annotation-31.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='indigo'><b>Elizabeth Alexander</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2604.75,2617.35"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas/speaker-annotation-32.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='#008080'><b>Alvin Aubert</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2618.64,2635.95"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas/speaker-annotation-33.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='indigo'><b>Elizabeth Alexander</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2684.55,2698.02"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas/speaker-annotation-34.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='darkcyan'><b>Eleanor W. Traylor</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2837.31,2848.44"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas/speaker-annotation-35.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='indigo'><b>Elizabeth Alexander</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2904.6,2907.63"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas/speaker-annotation-36.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='darkcyan'><b>Eleanor W. Traylor</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2907.84,2924.61"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas/speaker-annotation-37.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='chartreuse'><b>Monifa A. Love</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "3047.22,3059.73"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas/speaker-annotation-38.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='sienna'><b>Sherley Anne Williams</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "3109.74,3121.89"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas/speaker-annotation-39.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='indigo'><b>Elizabeth Alexander</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "3180.13,3193.24"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas/speaker-annotation-40.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='#008080'><b>Alvin Aubert</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "3217.8,3219.24"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas/speaker-annotation-41.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='crimson'><b>Mylea Thompson</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "3220.26,3230.19"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas/speaker-annotation-42.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='sienna'><b>Sherley Anne Williams</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "3247.26,3255.81"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas/speaker-annotation-43.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='indigo'><b>Elizabeth Alexander</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "3343.53,3353.01"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas/speaker-annotation-44.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='#008080'><b>Alvin Aubert</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "3417.63,3423.54"
+        }
+      }
+    }
+  ]
+}
