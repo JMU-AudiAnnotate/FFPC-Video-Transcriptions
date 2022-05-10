@@ -18,6 +18,10 @@
         "label": { "en": [ "JMU Scholarly Commons" ] }
       }
     ],
+    "requiredStatement": {
+        "label": { "en": [ "Copyright Statement"] },
+        "value": { "en": [ "Copyright for official University records is held by James Madison University; all other copyright is retained by the authors of items in these papers, or their descendants, as stipulated by United States copyright law"] }
+    },
     "items": [
       {
         "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff010/canvas-1/canvas",
