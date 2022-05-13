@@ -18,6 +18,152 @@
         "label": { "en": [ "JMU Scholarly Commons" ] }
       }
     ],
+    "metadata": [
+	{
+		"label": {
+			"en": [
+				"Creator"
+			]
+		},
+		"value": {
+			"en": [
+				"Furious Flower Poetry Center"
+			]
+		}
+	},
+	{
+		"label": {
+			"en": [
+				"Contributor"
+			]
+		},
+		"value": {
+			"en": [
+				"Joanne V. Gabbin (facilitator)"
+			]
+		}
+	},
+	{
+		"label": {
+			"en": [
+				"Contributor"
+			]
+		},
+		"value": {
+			"en": [
+				"Opal Moore (speaker)"
+			]
+		}
+	},
+	{
+		"label": {
+			"en": [
+				"Contributor"
+			]
+		},
+		"value": {
+			"en": [
+				"DaMaris B. Hill (speaker)"
+			]
+		}
+	},
+	{
+		"label": {
+			"en": [
+				"Contributor"
+			]
+		},
+		"value": {
+			"en": [
+				"Becky Thompson (speaker)"
+			]
+		}
+	},
+	{
+		"label": {
+			"en": [
+				"Title"
+			]
+		},
+		"value": {
+			"en": [
+				"Furious Flower Poetry Center Overview Part 1"
+			]
+		}
+	},
+	{
+		"label": {
+			"en": [
+				"Date"
+			]
+		},
+		"value": {
+			"en": [
+				"6-20-2011"
+			]
+		}
+	},
+	{
+		"label": {
+			"en": [
+				"Digital Origin"
+			]
+		},
+		"value": {
+			"en": [
+				"r	eformatted digital"
+			]
+		}
+	},
+	{
+		"label": {
+			"en": [
+				"Format"
+			]
+		},
+		"value": {
+			"en": [
+				"video/mp4"
+			]
+		}
+	},
+	{
+		"label": {
+			"en": [
+				"Running Time"
+			]
+		},
+		"value": {
+			"en": [
+				"00:59:59"
+			]
+		}
+	},
+	{
+		"label": {
+			"en": [
+				"Rights"
+			]
+		},
+		"value": {
+			"en": [
+				"Copyright for official University records is held by James Madison University; all other copyright is retained by the authors of items in these papers, or their descendants, as stipulated by United States copyright law."
+			]
+		}
+	},
+	{
+		"label": {
+			"en": [
+				"Identifier"
+			]
+		},
+		"value": {
+			"en": [
+				"Furious Flower Poetry Center Collection no. FF010"
+			]
+		}
+	}
+],
     "requiredStatement": 
     {
         "label": { "en": [ "Copyright Statement"] },
