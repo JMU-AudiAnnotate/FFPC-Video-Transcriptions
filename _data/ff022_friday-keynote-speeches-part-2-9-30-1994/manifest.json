@@ -18,6 +18,164 @@
         "label": { "en": [ "JMU Libraries" ] }
       }
     ],
+    "metadata": [
+	{
+		"label": {
+			"en": [
+				"Creator"
+			]
+		},
+		"value": {
+			"en": [
+				"Furious Flower Poetry Center"
+			]
+		}
+	},
+	{
+		"label": {
+			"en": [
+				"Contributor"
+			]
+		},
+		"value": {
+			"en": [
+				"Gwendolyn Brooks (speaker)"
+			]
+		}
+	},
+	{
+		"label": {
+			"en": [
+				"Contributor"
+			]
+		},
+		"value": {
+			"en": [
+				"Haki R. Madhubuti (speaker)"
+			]
+		}
+	},
+	{
+		"label": {
+			"en": [
+				"Contributor"
+			]
+		},
+		"value": {
+			"en": [
+				"Joanne V. Gabbin (speaker)"
+			]
+		}
+	},
+	{
+		"label": {
+			"en": [
+				"Description"
+			]
+		},
+		"value": {
+			"en": [
+				"00:00 Continuance of Gwendolyn Brooks speaking and reading (from part 1); 46:30 tribute to Brooks by Haki R. Madhubuti; 51:27 tribute from Joanne V. Gabbin"
+			]
+		}
+	},
+	{
+		"label": {
+			"en": [
+				"Title"
+			]
+		},
+		"value": {
+			"en": [
+				"Friday Keynote Speeches Part 2, 9/30/1994"
+			]
+		}
+	},
+	{
+		"label": {
+			"en": [
+				"Date"
+			]
+		},
+		"value": {
+			"en": [
+				"9-30-1994"
+			]
+		}
+	},
+	{
+		"label": {
+			"en": [
+				"Digital Origin"
+			]
+		},
+		"value": {
+			"en": [
+				"reformatted digital"
+			]
+		}
+	},
+	{
+		"label": {
+			"en": [
+				"Format"
+			]
+		},
+		"value": {
+			"en": [
+				"video/mp4"
+			]
+		}
+	},
+	{
+		"label": {
+			"en": [
+				"Running Time"
+			]
+		},
+		"value": {
+			"en": [
+				"00:55:10"
+			]
+		}
+	},
+	{
+		"label": {
+			"en": [
+				"Rights"
+			]
+		},
+		"value": {
+			"en": [
+				"Copyright for official University records is held by James Madison University; all other copyright is retained by the authors of items in these papers, or their descendants, as stipulated by United States copyright law."
+			]
+		}
+	},
+	{
+		"label": {
+			"en": [
+				"Identifier"
+			]
+		},
+		"value": {
+			"en": [
+				"Furious Flower Poetry Center Collection no. FF022"
+			]
+		}
+	}
+],
+"requiredStatement": {
+	"label": {
+		"en": [
+			"Copyright Statement"
+		]
+	},
+	"value": {
+		"en": [
+			"Copyright for official University records is held by James Madison University; all other copyright is retained by the authors of items in these papers, or their descendants, as stipulated by United States copyright law."
+		]
+	}
+},
     "items": [
       {
         "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff022_friday-keynote-speeches-part-2-9-30-1994/canvas-1/canvas",
