@@ -8,6 +8,8 @@ external_manifest_url:
 ---
 <!-- Add an essay or interpretive material below this line,
 using HTML or markdown.  Do not modify this file above this line -->
+<p style="text-align:center"><img src="https://apps.lib.jmu.edu/audiannotate/images/furious-flower-logo.jpg"></p>
+<hr>
 <h3>Preferred Citation:</h3>
 <i>Friday Keynote Speeches Part 2, 9/30/1994 (FF022)</i>. Transcribed and edited by Evan Sizemore, 2021-2022, part of the Mellon-funded AudiAnnotate Audiovisual Extensible Workflow Project. Based on video recordings made by WVPT to document the first Furious Flower Poetry Center decennial meeting, September 29-October 1, 1994. Part of the Furious Flower Poetry Center Conference Records, 1970-2015, UA 0018, Special Collections, Carrier Library, James Madison University Libraries, Harrisonburg, Virginia, media file FF031. Collection finding aid: <a href="https://aspace.lib.jmu.edu/repositories/4/resources/487">https://aspace.lib.jmu.edu/repositories/4/resources/487</a>.
 <hr>
