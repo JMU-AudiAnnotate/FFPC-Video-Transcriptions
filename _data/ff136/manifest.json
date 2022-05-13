@@ -18,6 +18,152 @@
         "label": { "en": [ "JMU Scholarly Commons" ] }
       }
     ],
+    "metadata": [
+	{
+		"label": {
+			"en": [
+				"Creator"
+			]
+		},
+		"value": {
+			"en": [
+				"Furious Flower Poetry Center"
+			]
+		}
+	},
+	{
+		"label": {
+			"en": [
+				"Contributor"
+			]
+		},
+		"value": {
+			"en": [
+				"Houston Baker (interviewee)"
+			]
+		}
+	},
+	{
+		"label": {
+			"en": [
+				"Contributor"
+			]
+		},
+		"value": {
+			"en": [
+				"Jerry Washington Ward (interviewer)"
+			]
+		}
+	},
+	{
+		"label": {
+			"en": [
+				"Description"
+			]
+		},
+		"value": {
+			"en": [
+				"00:00 Jerry Washington Ward interviews Houston A. Baker, camera stays on Baker"
+			]
+		}
+	},
+	{
+		"label": {
+			"en": [
+				"Title"
+			]
+		},
+		"value": {
+			"en": [
+				"Houston Baker Interview, 9/23/2004"
+			]
+		}
+	},
+	{
+		"label": {
+			"en": [
+				"Date"
+			]
+		},
+		"value": {
+			"en": [
+				"9-23-2004"
+			]
+		}
+	},
+	{
+		"label": {
+			"en": [
+				"Digital Origin"
+			]
+		},
+		"value": {
+			"en": [
+				"reformatted digital"
+			]
+		}
+	},
+	{
+		"label": {
+			"en": [
+				"Format"
+			]
+		},
+		"value": {
+			"en": [
+				"video/mp4"
+			]
+		}
+	},
+	{
+		"label": {
+			"en": [
+				"Running Time"
+			]
+		},
+		"value": {
+			"en": [
+				"00:39:57"
+			]
+		}
+	},
+	{
+		"label": {
+			"en": [
+				"Rights"
+			]
+		},
+		"value": {
+			"en": [
+				"Copyright for official University records is held by James Madison University; all other copyright is retained by the authors of items in these papers, or their descendants, as stipulated by United States copyright law."
+			]
+		}
+	},
+	{
+		"label": {
+			"en": [
+				"Identifier"
+			]
+		},
+		"value": {
+			"en": [
+				"Furious Flower Poetry Center Collection no. FF136"
+			]
+		}
+	}
+],
+"requiredStatement": {
+	"label": {
+		"en": [
+			"Copyright Statement"
+		]
+	},
+	"value": {
+		"en": [
+			"Copyright for official University records is held by James Madison University; all other copyright is retained by the authors of items in these papers, or their descendants, as stipulated by United States copyright law."
+		]
+	}
+},
     "items": [
       {
         "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff136/canvas-1/canvas",
