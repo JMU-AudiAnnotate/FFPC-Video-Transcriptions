@@ -18,6 +18,248 @@
         "label": { "en": [ "JMU Libraries" ] }
       }
     ],
+    "metadata": [
+	{
+		"label": {
+			"en": [
+				"Creator"
+			]
+		},
+		"value": {
+			"en": [
+				"Furious Flower Poetry Center"
+			]
+		}
+	},
+	{
+		"label": {
+			"en": [
+				"Contributor"
+			]
+		},
+		"value": {
+			"en": [
+				"Sherley Anne Williams (panelist)"
+			]
+		}
+	},
+	{
+		"label": {
+			"en": [
+				"Contributor"
+			]
+		},
+		"value": {
+			"en": [
+				"Elizabeth Alexander (panelist)"
+			]
+		}
+	},
+	{
+		"label": {
+			"en": [
+				"Contributor"
+			]
+		},
+		"value": {
+			"en": [
+				"Eleanor W. Traylor (panelist)"
+			]
+		}
+	},
+	{
+		"label": {
+			"en": [
+				"Contributor"
+			]
+		},
+		"value": {
+			"en": [
+				"Darrell Stover (speaker)"
+			]
+		}
+	},
+	{
+		"label": {
+			"en": [
+				"Contributor"
+			]
+		},
+		"value": {
+			"en": [
+				"Shahara Brookins Drew (speaker)"
+			]
+		}
+	},
+	{
+		"label": {
+			"en": [
+				"Contributor"
+			]
+		},
+		"value": {
+			"en": [
+				"Adam David Miller (speaker)"
+			]
+		}
+	},
+	{
+		"label": {
+			"en": [
+				"Contributor"
+			]
+		},
+		"value": {
+			"en": [
+				"Monifa A. Love (speaker)"
+			]
+		}
+	},
+	{
+		"label": {
+			"en": [
+				"Contributor"
+			]
+		},
+		"value": {
+			"en": [
+				"Mylea Thompson (speaker)"
+			]
+		}
+	},
+	{
+		"label": {
+			"en": [
+				"Contributor"
+			]
+		},
+		"value": {
+			"en": [
+				"Alvin Aubert (moderator)"
+			]
+		}
+	},
+	{
+		"label": {
+			"en": [
+				"Contributor"
+			]
+		},
+		"value": {
+			"en": [
+				"Joanne V. Gabbin (facilitator)"
+			]
+		}
+	},
+	{
+		"label": {
+			"en": [
+				"Description"
+			]
+		},
+		"value": {
+			"en": [
+				"00:00 Sherley Anne Williams speaks; 18:20 Alvin Aubert speaks; 19:45 Joanne V. Gabbin instructs participants; 19:52 Darrell Stover addresses the panel; 21:13 Elizabeth Alexander responds to Stover; 21:57 Eleanor W. Traylor responds to Stover; 24:21 Aubert responds to unidentified audience member; 27:36 Shahara Brookins Drew addresses panel; 28:30 Williams responds to Drew; 29:40 Aubert briefly responds; 30:00 Adam David Miller addresses panel on the influence of the Gospel/Spirituals; 30:48 Williams responds to Miller; 33:28 Alexander responds to Williams; 35:10 Williams responds to Alexander; 36:32 Aubert responds to Williams; 38:00 Williams responds; 38:30 Traylor interjects; 42:15 unidentified audience member asks that the panel discusses the future of African American poetry; 50:47 Monifa A. Love addresses panel; 53:40 Mylea Thompson addresses panel"
+			]
+		}
+	},
+	{
+		"label": {
+			"en": [
+				"Title"
+			]
+		},
+		"value": {
+			"en": [
+				"African American Poetry and the Vernacular Matrix Part 3, 9/29/1994"
+			]
+		}
+	},
+	{
+		"label": {
+			"en": [
+				"Date"
+			]
+		},
+		"value": {
+			"en": [
+				"9-29-1994"
+			]
+		}
+	},
+	{
+		"label": {
+			"en": [
+				"Digital Origin"
+			]
+		},
+		"value": {
+			"en": [
+				"reformatted digital"
+			]
+		}
+	},
+	{
+		"label": {
+			"en": [
+				"Format"
+			]
+		},
+		"value": {
+			"en": [
+				"video/mp4"
+			]
+		}
+	},
+	{
+		"label": {
+			"en": [
+				"Running Time"
+			]
+		},
+		"value": {
+			"en": [
+				"00:58:10"
+			]
+		}
+	},
+	{
+		"label": {
+			"en": [
+				"Rights"
+			]
+		},
+		"value": {
+			"en": [
+				"Copyright for official University records is held by James Madison University; all other copyright is retained by the authors of items in these papers, or their descendants, as stipulated by United States copyright law."
+			]
+		}
+	},
+	{
+		"label": {
+			"en": [
+				"Identifier"
+			]
+		},
+		"value": {
+			"en": [
+				"Furious Flower Poetry Center Collection no. FF031"
+			]
+		}
+	}
+],
+"requiredStatement": {
+	"label": {
+		"en": [
+			"Copyright Statement"
+		]
+	},
+	"value": {
+		"en": [
+			"Copyright for official University records is held by James Madison University; all other copyright is retained by the authors of items in these papers, or their descendants, as stipulated by United States copyright law."
+		]
+	}
+},
     "items": [
       {
         "id": "https://JMU-AudiAnnotate.github.io/FFPC-Video-Transcriptions/ff031_african-american-poetry-and-the-vernacular-matrix-part-3-9-29-1994/canvas-1/canvas",
