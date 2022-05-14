@@ -15,7 +15,7 @@ using HTML or markdown.  Do not modify this file above this line -->
 <p>This recording begins as the last panelist, Sherley Anne Williams, presents her work, and continues with a question and discussion section. Among the topics covered in the panel are the inclusion of music in poetry performance, the place of the secular and the spiritual in poetry, the relation between folk and popular art forms, and the directions Black poetry might take in the future.</p>
 <hr>
 <h1 style="text-align:center"><b>Panelists</b></h1>
-<h2 style="text-align:center">Dr. Eleanor Traylor</h2>
+<h2 style="text-align:center">Eleanor W. Traylor</h2>
 <p style="text-align:center"><img src="https://apps.lib.jmu.edu/audiannotate/images/eleanor_traylor.jpg"></p>
 <p>Dr. Eleanor W. Traylor is an educator, essayist, and critic of African American literature. She earned her Ph.D. in English from the Catholic University of America in 1976. In her long career as an educator, she has served as Professor Emeritus and former chair of the English Department at Howard University, and has taught at Georgetown University, Tougaloo College, and Cornell. She has edited multiple anthologies of African American literature, co-written textbooks, and served as a consultant to multiple museums. Among her numerous honors are the Hazel Jones Bryant Award, the Marcus Garvey Award, and an Honorary Doctorate of Letters from Howard University.</p>
 <hr>
